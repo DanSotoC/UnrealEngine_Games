@@ -1,0 +1,1433 @@
+﻿Log file open, 06/06/20 22:26:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.120269
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.06.07-02.26.46:499][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.07-02.26.46:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:501][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:504][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-02.26.46:504][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.07-02.26.46:505][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.07-02.26.46:505][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-02.26.46:505][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.07-02.26.46:509][  0]LogHAL: Display: Platform has ~ 11 GB [11706908672 / 17179869184 / 11], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.07-02.26.46:509][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.07-02.26.46:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-02.26.46:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-02.26.46:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.07-02.26.46:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.06.07-02.26.46:511][  0]LogInit: Computer: LAPTOP-D3ITUA1L
+[2020.06.07-02.26.46:511][  0]LogInit: User: Daniel
+[2020.06.07-02.26.46:511][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.07-02.26.46:511][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.07-02.26.46:512][  0]LogMemory: Memory total: Physical=10.9GB (11GB approx)
+[2020.06.07-02.26.46:512][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.07-02.26.46:512][  0]LogMemory: Process Physical Memory: 106.26 MB used, 106.27 MB peak
+[2020.06.07-02.26.46:512][  0]LogMemory: Process Virtual Memory: 100.69 MB used, 100.69 MB peak
+[2020.06.07-02.26.46:512][  0]LogMemory: Physical Memory: 6072.68 MB used,  5091.90 MB free, 11164.58 MB total
+[2020.06.07-02.26.46:512][  0]LogMemory: Virtual Memory: 5137.54 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.06.07-02.26.46:517][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.07-02.26.46:555][  0]LogInit: Using OS detected language (es-ES).
+[2020.06.07-02.26.46:555][  0]LogInit: Using OS detected locale (es-CL).
+[2020.06.07-02.26.46:556][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.06.07-02.26.46:612][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.07-02.26.46:689][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.07-02.26.46:689][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.07-02.26.46:898][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-02.26.46:899][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.07-02.26.46:899][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.07-02.26.46:899][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.07-02.26.46:944][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.06.07-02.26.46:944][  0]LogD3D11RHI:       1009/0/5582 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.06.07-02.26.46:947][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.07-02.26.46:947][  0]LogD3D11RHI:       0/0/5582 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.07-02.26.46:947][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.07-02.26.46:957][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.07-02.26.46:958][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2020.06.07-02.26.46:958][  0]LogWindows: EnumDisplayDevices:
+[2020.06.07-02.26.46:958][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2020.06.07-02.26.46:958][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.06.07-02.26.46:959][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.06.07-02.26.46:959][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.06.07-02.26.46:959][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.07-02.26.46:959][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2020.06.07-02.26.46:959][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.4.2 (internal:26.20.15029.27016, unified:26.20.15029.27016)
+[2020.06.07-02.26.46:959][  0]LogD3D11RHI:      Driver Date: 4-21-2020
+[2020.06.07-02.26.46:959][  0]LogRHI: Texture pool is 706 MB (70% of 1009 MB)
+[2020.06.07-02.26.47:007][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.06.07-02.26.47:008][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.07-02.26.47:024][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.06.07-02.26.47:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.07-02.26.47:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.07-02.26.47:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.07-02.26.47:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.07-02.26.47:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.07-02.26.47:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.07-02.26.47:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.07-02.26.47:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.07-02.26.47:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.07-02.26.47:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.07-02.26.47:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.07-02.26.47:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.07-02.26.47:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.07-02.26.47:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.07-02.26.47:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.07-02.26.47:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.07-02.26.47:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.07-02.26.47:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.07-02.26.47:775][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.07-02.26.47:781][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.07-02.26.47:827][  0]LogShaderCompilers: Guid format shader working directory is -73 characters bigger than the processId version (../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Intermediate/Shaders/WorkingDirectory/7632/).
+[2020.06.07-02.26.47:828][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daniel Soto/AppData/Local/Temp/UnrealShaderWorkingDir/7A6D3EA046893C494568DE87A7283F70/'.
+[2020.06.07-02.26.47:828][  0]LogXGEController: Cleaning working directory: C:/Users/Daniel Soto/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.07-02.26.47:829][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.07-02.26.47:829][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.07-02.26.47:829][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.07-02.26.48:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.07-02.26.48:850][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Daniel Soto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.07-02.26.48:851][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daniel Soto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.07-02.26.48:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.07-02.26.48:851][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.07-02.26.48:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-02.26.48:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.07-02.26.48:864][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.07-02.26.48:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-02.26.48:865][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.07-02.26.48:867][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daniel Soto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.07-02.26.48:868][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.07-02.26.48:868][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.07-02.26.48:902][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.07-02.26.48:907][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.07-02.26.48:908][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.07-02.26.48:979][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2020.06.07-02.26.49:449][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-02.26.49:709][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.07-02.26.49:709][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.07-02.26.49:709][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.07-02.26.49:709][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.07-02.26.49:709][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.07-02.26.49:725][  0]LogNetVersion: MyProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2318771507)
+[2020.06.07-02.26.51:324][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.111917 seconds
+[2020.06.07-02.26.51:341][  0]LogUObjectArray: 46751 objects as part of root set at end of initial load.
+[2020.06.07-02.26.51:341][  0]LogUObjectAllocator: 8137384 out of 0 bytes used by permanent object pool.
+[2020.06.07-02.26.51:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.07-02.26.52:115][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.07-02.26.52:120][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.07-02.26.52:211][  0]SourceControl: El control de código fuente está desactivado
+[2020.06.07-02.26.54:054][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.07-02.26.54:073][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.07-02.26.54:073][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.07-02.26.54:212][  0]LogOcInput: OculusInput pre-init called
+[2020.06.07-02.26.54:222][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.07-02.26.54:222][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.07-02.26.54:328][  0]LogEngine: Initializing Engine...
+[2020.06.07-02.26.54:329][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-02.26.54:330][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.07-02.26.54:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.07-02.26.54:823][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.26.54:843][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.26.54:843][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.26.54:844][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.26.54:844][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.26.54:860][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.26.54:896][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.26.54:904][  0]LogInit: FAudioDevice initialized.
+[2020.06.07-02.26.54:904][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.07-02.26.56:957][  0]LogDerivedDataCache: Saved boot cache 2.05s 78MB C:/Users/Daniel Soto/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.07-02.26.56:965][  0]LogInit: Texture streaming: Enabled
+[2020.06.07-02.26.56:984][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.07-02.26.56:984][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CC5F12B2-4C59-EA84-8B0D-66BE98F53985}
+[2020.06.07-02.26.56:984][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.07-02.26.56:986][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.07-02.26.57:141][  0]LogInit: Transaction tracking system initialized
+[2020.06.07-02.26.57:156][  0]BlueprintLog: New page: Cargar el editor
+[2020.06.07-02.26.57:206][  0]LocalizationService: Localization service is disabled
+[2020.06.07-02.26.57:674][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/' took 0.02s
+[2020.06.07-02.26.57:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.07-02.26.57:674][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.07-02.26.58:691][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.07-02.27.09:084][  0]LogSlate: Window 'Recuperar los paquetes' being destroyed
+[2020.06.07-02.27.09:085][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-02.27.09:088][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-02.27.09:320][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-02.27.09:322][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.07-02.27.09:349][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.07-02.27.09:350][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.27.09:351][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.27.09:351][  0]MapCheck: New page: Revisión del mapa
+[2020.06.07-02.27.09:351][  0]LightingResults: New page: Diseñar la iluminación
+[2020.06.07-02.27.09:383][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.06.07-02.27.10:426][  0]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.27.10:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-02.27.10:576][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.06.07-02.27.10:579][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-02.27.10:579][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,301ms to complete.
+[2020.06.07-02.27.10:580][  0]LogFileHelpers: Loading map 'prueba_2d' took 1.231
+[2020.06.07-02.27.10:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.27.10:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.27.10:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.27.10:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.27.10:757][  0]LogCollectionManager: Loaded 0 collections in 0.003531 seconds
+[2020.06.07-02.27.10:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Collections/' took 0.00s
+[2020.06.07-02.27.10:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Developers/Daniel/Collections/' took 0.00s
+[2020.06.07-02.27.10:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Collections/' took 0.00s
+[2020.06.07-02.27.10:777][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 3015 classes and 717 folders.
+[2020.06.07-02.27.10:781][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.07-02.27.10:879][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.07-02.27.10:885][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.06.07-02.27.11:036][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.07-02.27.11:043][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.07-02.27.11:119][  0]LogRenderer: Reallocating scene render targets to support 756x356 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-02.27.11:311][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-02.27.11:381][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.07-02.27.11:381][  0]LogLoad: (Engine Initialization) Total time: 27.15 seconds
+[2020.06.07-02.27.11:381][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.07-02.27.11:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.07-02.27.11:493][  1]LogRenderer: Reallocating scene render targets to support 756x408 Format 10 NumSamples 1 (Frame:2).
+[2020.06.07-02.27.11:533][  1]LogAssetRegistry: Asset discovery search completed in 22.5568 seconds
+[2020.06.07-02.27.11:539][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.06.07-02.27.12:449][ 51]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-02.27.26:934][866]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Cinematicas/Level_1/Video_Player.Video_Player
+[2020.06.07-02.27.27:228][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.06.07-02.27.28:430][866]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.07-02.27.33:976][162]BlueprintLog: New page: Compilar Video_Player
+[2020.06.07-02.27.34:070][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.06.07-02.27.34:865][207]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.27.34:873][207]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.27.34:881][207]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.27.34:881][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.27.34:887][207]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.27.34:887][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.27.49:325][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.06.07-02.27.51:597][ 57]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.07-02.27.58:727][ 57]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+	Asset Name: /Game/Cinematicas/Level_1/Reproductor_1_Video.Reproductor_1_Video
+	Asset Name: /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+	Asset Name: /Game/Cinematicas/Level_1/video_barquero.video_barquero
+[2020.06.07-02.27.59:387][ 57]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.27.59:388][ 57]LogMaterial: Warning: C:\Users\Daniel Soto\Desktop\Universidad\Videojuegos\Unreal Github\UnrealEngine_Games\Unreal Proyect\MyProject\Content\Cinematicas\Level_1\Reproductor_1_Video_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.07-02.27.59:388][ 57]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.07-02.28.01:065][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.06.07-02.28.01:102][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.06.07-02.28.01:135][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.07-02.28.01:169][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.06.07-02.28.01:207][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.06.07-02.28.01:241][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.07-02.28.01:848][ 57]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/video_barquero.uasset' did not match any file(s) known to git
+[2020.06.07-02.28.01:848][ 57]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset' did not match any file(s) known to git
+[2020.06.07-02.28.01:848][ 57]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video.uasset' did not match any file(s) known to git
+[2020.06.07-02.28.01:848][ 57]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset' did not match any file(s) known to git
+[2020.06.07-02.28.02:241][ 57]SourceControl: Error: fatal: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/video_barquero.uasset' did not match any files
+[2020.06.07-02.28.02:244][ 57]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.06.07-02.28.22:846][309]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.07-02.28.23:148][309]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/Daniel Soto/Desktop/Inferno's revenge/video barquero.avi)
+[2020.06.07-02.28.33:308][643]LogSlate: Window 'Create Media Player' being destroyed
+[2020.06.07-02.28.45:713][ 54]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.07-02.28.45:918][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.06.07-02.28.48:057][ 54]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.07-02.28.48:262][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.06.07-02.28.50:699][178]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.28.50:783][178]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.06.07-02.28.50:889][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.06.07-02.28.50:889][178]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.07-02.28.50:889][178]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.28.50:889][178]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.07-02.28.51:021][178]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2020.06.07-02.28.56:976][495]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_17681A91C481429F54EE291ACB8DCCBAC.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset'
+[2020.06.07-02.28.57:001][495]AssetCheck: New page: Asset Save: Reproductor_1
+[2020.06.07-02.28.57:002][495]LogContentValidation: Display: Validating MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.29.00:665][694]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_18DBBF3CA48C9EF3643BA7C9EB69B4C17.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset'
+[2020.06.07-02.29.00:680][694]AssetCheck: New page: Asset Save: Reproductor_1
+[2020.06.07-02.29.00:681][694]LogContentValidation: Display: Validating MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.29.01:688][732]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1D8451DB849B22636DEF260A7AE27ED90.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset'
+[2020.06.07-02.29.01:706][732]AssetCheck: New page: Asset Save: Reproductor_1
+[2020.06.07-02.29.01:706][732]LogContentValidation: Display: Validating MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.29.02:364][770]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.29.02:370][770]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.29.11:724][152]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.07-02.29.11:936][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.06.07-02.29.12:174][152]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.12:227][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.06.07-02.29.12:227][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.07-02.29.12:227][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.29.12:227][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.07-02.29.14:402][253]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.29.14:411][253]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.14:946][253]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.14:973][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.07-02.29.14:988][253]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.15:037][253]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.29.15:055][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.29.15:654][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.07-02.29.16:210][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.07-02.29.16:286][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.06.07-02.29.16:341][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.29.17:059][319]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.29.17:091][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.07-02.29.17:365][327]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.17:629][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.06.07-02.29.17:662][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.07-02.29.17:679][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.07-02.29.17:905][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.07-02.29.18:349][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.07-02.29.18:418][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.07-02.29.18:523][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.07-02.29.18:523][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.06.07-02.29.19:124][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.07-02.29.19:450][429]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.19:479][429]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.19:497][429]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.20:677][495]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.07-02.29.20:696][496]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.07-02.29.20:730][498]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.06.07-02.29.20:746][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.07-02.29.21:033][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.07-02.29.21:057][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.06.07-02.29.21:261][526]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.07-02.29.21:336][530]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.07-02.29.21:366][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.07-02.29.21:538][541]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.29.21:539][541]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.29.21:539][541]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.29.21:539][541]MaterialEditorStats: Texture samplers: 1/16
+[2020.06.07-02.29.25:134][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.29.25:163][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.29.25:163][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.07-02.29.25:163][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.07-02.29.25:163][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.07-02.29.28:031][916]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.28:056][916]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.29.28:056][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.29.28:056][916]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.29.28:056][916]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.29.28:056][916]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.29.28:366][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.07-02.29.28:384][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.29.28:667][945]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.29.28:667][945]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.29.28:687][946]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.07-02.29.28:812][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.29.28:874][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.07-02.29.28:892][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.07-02.29.28:924][959]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.07-02.29.28:954][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.07-02.29.32:826][177]LogMaterialEditor: Saving and Compiling material Reproductor_1_Video_Mat
+[2020.06.07-02.29.33:407][177]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.33:448][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.29.33:448][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.29.33:448][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.29.33:448][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.29.33:463][177]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.29.33:532][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.06.07-02.29.33:538][177]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.07-02.29.33:580][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.06.07-02.29.35:062][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.06.07-02.29.35:074][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.06.07-02.29.35:105][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.07-02.29.36:158][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.07-02.29.36:229][177]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_MatE798A580458FC3314B5C369EF3501ABE.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset'
+[2020.06.07-02.29.36:280][177]AssetCheck: New page: Asset Save: Reproductor_1_Video_Mat
+[2020.06.07-02.29.36:280][177]LogContentValidation: Display: Validating Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.29.37:369][240]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.29.37:374][240]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.29.37:421][240]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.29.37:421][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.29.38:657][308]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Cinematicas/Level_1/Video_Player.Video_Player
+[2020.06.07-02.30.20:797][566]BlueprintLog: New page: Compilar Video_Player
+[2020.06.07-02.30.20:851][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.06.07-02.30.21:909][623]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.30.21:923][623]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.30.21:929][623]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.30.21:929][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.30.21:970][623]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.30.21:970][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.30.29:822][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2020.06.07-02.30.30:205][ 59]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/prueba_2d66841A39425844D54C75C0B9C0001B48.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/prueba_2d.umap'
+[2020.06.07-02.30.30:313][ 59]AssetCheck: New page: Asset Save: prueba_2d
+[2020.06.07-02.30.30:313][ 59]LogContentValidation: Display: Validating World /Game/Mapa/prueba_2d.prueba_2d
+[2020.06.07-02.30.42:981][793]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Cinematicas/Level_1/Reproductor_1
+[2020.06.07-02.30.43:052][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.06.07-02.30.43:400][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.06.07-02.30.50:031][166]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d
+[2020.06.07-02.30.50:576][167]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.07-02.31.00:484][719]BlueprintLog: New page: Compilar prueba_2d
+[2020.06.07-02.31.00:817][719]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.06.07-02.31.09:841][241]LogSlate: Window 'prueba_2d' being destroyed
+[2020.06.07-02.31.09:853][241]LogSlate: Window 'prueba_2d' being destroyed
+[2020.06.07-02.31.09:920][241]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.31.09:920][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.31.12:312][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.06.07-02.31.12:654][359]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/prueba_2d30467CF04A47B491F42C4BBB5B0967EF.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/prueba_2d.umap'
+[2020.06.07-02.31.12:751][359]AssetCheck: New page: Asset Save: prueba_2d
+[2020.06.07-02.31.12:752][359]LogContentValidation: Display: Validating World /Game/Mapa/prueba_2d.prueba_2d
+[2020.06.07-02.31.13:658][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-02.31.13:695][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.31.13:696][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-02.31.13:696][412]PIE: New page: Sesión PIE (reproducción en el editor): prueba_2d (06-06-2020 18:31:13)
+[2020.06.07-02.31.13:697][412]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.07-02.31.13:699][412]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.07-02.31.13:699][412]LogPlayLevel: Creating play world package: /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.31.13:711][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011776s)
+[2020.06.07-02.31.13:713][412]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.31.13:713][412]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2020.06.07-02.31.13:713][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/prueba_2d.prueba_2d to /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d (0.013769s)
+[2020.06.07-02.31.13:754][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.31.13:755][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.31.13:755][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.31.13:756][412]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.31.13:756][412]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.31.13:763][412]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.31.13:792][412]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.31.13:794][412]LogInit: FAudioDevice initialized.
+[2020.06.07-02.31.13:810][412]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.07-02.31.13:856][412]LogWorld: Bringing World /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d up for play (max tick rate 60) at 2020.06.06-22.31.13
+[2020.06.07-02.31.13:860][412]LogWorld: Bringing up level for play took: 0.049173
+[2020.06.07-02.31.13:860][412]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.06.07-02.31.13:865][412]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.06.07-02.31.13:941][412]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/UEDPIE_0_prueba_2d 1,142
+[2020.06.07-02.31.13:942][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.31.16:150][520]Set new viewmode: Unlit
+[2020.06.07-02.31.50:921][606]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=421.20 Y=0.00 Z=0.00 Location: X=12791.44 Y=-253.43 Z=-268.54 Normal: X=-0.00 Y=1.00 Z=-0.00 PenetrationDepth:28.431 Actor:barco_2d3 Component:barco2d BoneName:None (0 other events since notify)
+[2020.06.07-02.31.55:088][856]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-02.32.17:021][163]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.32.17:032][163]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.07-02.32.17:052][163]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.07-02.32.17:052][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.32.17:053][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.32.17:053][163]LogWorld: BeginTearingDown for /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.32.17:053][163]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.32.17:053][163]LogWorld: UWorld::CleanupWorld for prueba_2d, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.32.17:167][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.32.17:177][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-02.32.17:178][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.32.17:188][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.32.17:225][163]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.32.17:231][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.32.17:271][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.06.07-02.32.17:302][164]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.06.07-02.33.01:747][152]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.33.01:754][152]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.33.01:943][152]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.33.01:958][152]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.33.01:977][152]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.33.01:977][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.33.01:977][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.33.01:977][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.33.01:987][152]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.33.02:502][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.07-02.33.02:523][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.33.02:828][188]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.33.02:882][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.07-02.33.02:898][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.07-02.33.02:934][194]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.33.03:136][205]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.07-02.33.03:136][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.07-02.33.03:136][205]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.07-02.33.03:137][205]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.33.03:137][205]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.33.03:138][205]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.33.03:138][205]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-02.33.03:138][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.07-02.33.03:138][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.07-02.33.09:803][594]LogMaterialEditor: Saving and Compiling material Reproductor_1_Video_Mat
+[2020.06.07-02.33.10:139][594]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_Mat56FC22ED4879C65F5F1689A41733A01C.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset'
+[2020.06.07-02.33.10:158][594]AssetCheck: New page: Asset Save: Reproductor_1_Video_Mat
+[2020.06.07-02.33.10:159][594]LogContentValidation: Display: Validating Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.41.11:074][843]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.41.11:085][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.41.11:085][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.07-02.41.11:085][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.07-02.41.11:085][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.07-02.41.28:374][834]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.41.28:400][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.41.28:400][834]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.41.28:400][834]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.41.28:400][834]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.41.28:400][834]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.41.28:712][850]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.07-02.41.28:730][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.41.29:017][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.07-02.41.29:037][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.07-02.41.29:038][864]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.07-02.41.29:089][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.41.29:257][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.07-02.41.29:274][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.07-02.41.29:309][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.07-02.41.29:332][880]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.41.29:332][880]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.41.29:332][880]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.41.29:332][880]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-02.41.29:333][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.07-02.41.29:333][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.07-02.41.32:317][ 45]LogMaterialEditor: Saving and Compiling material Reproductor_1_Video_Mat
+[2020.06.07-02.41.32:968][ 45]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.41.32:994][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.41.32:995][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.41.32:995][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.41.32:995][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.41.33:028][ 45]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.41.33:100][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.06.07-02.41.33:108][ 45]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.07-02.41.33:147][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.06.07-02.41.33:308][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.06.07-02.41.33:320][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.07-02.41.34:499][ 45]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.07-02.41.34:564][ 45]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_MatFFE40C704931B19D53595183728CE66A.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset'
+[2020.06.07-02.41.34:615][ 45]AssetCheck: New page: Asset Save: Reproductor_1_Video_Mat
+[2020.06.07-02.41.34:615][ 45]LogContentValidation: Display: Validating Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.41.44:006][594]LogMaterialEditor: Saving and Compiling material Reproductor_1_Video_Mat
+[2020.06.07-02.41.44:321][594]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_Mat498616524D3472E9BAB8AFA4244D24A7.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset'
+[2020.06.07-02.41.44:337][594]AssetCheck: New page: Asset Save: Reproductor_1_Video_Mat
+[2020.06.07-02.41.44:337][594]LogContentValidation: Display: Validating Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.41.44:842][624]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.41.44:849][624]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.41.44:924][624]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.41.44:924][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.41.48:839][854]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-02.41.48:877][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.41.48:877][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-02.41.48:877][854]PIE: New page: Sesión PIE (reproducción en el editor): prueba_2d (06-06-2020 18:41:48)
+[2020.06.07-02.41.48:877][854]LogPlayLevel: Creating play world package: /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.41.48:888][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011064s)
+[2020.06.07-02.41.48:889][854]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.41.48:890][854]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.06.07-02.41.48:890][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/prueba_2d.prueba_2d to /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d (0.012294s)
+[2020.06.07-02.41.48:935][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.41.48:938][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.41.48:938][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.41.48:939][854]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.41.48:939][854]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.41.48:948][854]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.41.48:948][854]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.41.48:948][854]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.41.48:949][854]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.41.48:977][854]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.41.48:979][854]LogInit: FAudioDevice initialized.
+[2020.06.07-02.41.48:992][854]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.07-02.41.49:039][854]LogWorld: Bringing World /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d up for play (max tick rate 60) at 2020.06.06-22.41.49
+[2020.06.07-02.41.49:043][854]LogWorld: Bringing up level for play took: 0.050118
+[2020.06.07-02.41.49:044][854]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.06.07-02.41.49:117][854]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/UEDPIE_0_prueba_2d 0,319
+[2020.06.07-02.41.49:117][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.41.52:204][ 36]Set new viewmode: Unlit
+[2020.06.07-02.41.53:871][136]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-02.44.04:397][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.04:402][212]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.07-02.44.04:422][212]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.07-02.44.04:423][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.04:423][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.44.04:423][212]LogWorld: BeginTearingDown for /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.44.04:423][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.04:423][212]LogWorld: UWorld::CleanupWorld for prueba_2d, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.44.04:539][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.44.04:556][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-02.44.04:556][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.04:563][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.44.04:605][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.04:612][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.44.04:618][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.06.07-02.44.04:636][213]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.06.07-02.44.06:832][343]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.07-02.44.16:745][936]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-02.44.16:786][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.16:786][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-02.44.16:786][936]PIE: New page: Sesión PIE (reproducción en el editor): prueba_2d (06-06-2020 18:44:16)
+[2020.06.07-02.44.16:786][936]LogPlayLevel: Creating play world package: /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.44.16:801][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014253s)
+[2020.06.07-02.44.16:803][936]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.44.16:803][936]LogPlayLevel: PIE: World Init took: (0.002249s)
+[2020.06.07-02.44.16:803][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/prueba_2d.prueba_2d to /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d (0.016735s)
+[2020.06.07-02.44.16:852][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.44.16:855][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.44.16:855][936]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.44.16:855][936]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.44.16:861][936]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.44.16:862][936]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.44.16:885][936]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.44.16:888][936]LogInit: FAudioDevice initialized.
+[2020.06.07-02.44.16:904][936]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.07-02.44.16:943][936]LogWorld: Bringing World /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d up for play (max tick rate 60) at 2020.06.06-22.44.16
+[2020.06.07-02.44.16:946][936]LogWorld: Bringing up level for play took: 0.039992
+[2020.06.07-02.44.16:946][936]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.06.07-02.44.17:012][936]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/UEDPIE_0_prueba_2d 0,213
+[2020.06.07-02.44.17:012][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.21:005][175]Set new viewmode: Unlit
+[2020.06.07-02.44.21:874][227]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.06.07-02.44.34:208][967]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=-298.12 Y=0.00 Z=0.00 Location: X=13212.31 Y=-253.43 Z=-296.77 Normal: X=0.95 Y=0.31 Z=-0.00 PenetrationDepth:0.363 Actor:barco_2d3 Component:barco2d BoneName:None (0 other events since notify)
+[2020.06.07-02.44.37:609][171]LogCharacterMovement: 2DSideScrollerCharacter_C_0 is stuck and failed to move! Velocity: X=35.79 Y=0.00 Z=0.00 Location: X=13367.47 Y=-253.43 Z=-358.72 Normal: X=-0.45 Y=0.31 Z=-0.83 PenetrationDepth:2.618 Actor:barco_2d3 Component:barco2d BoneName:None (21 other events since notify)
+[2020.06.07-02.44.44:209][567]Set new viewmode: Wireframe
+[2020.06.07-02.44.48:098][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.48:103][796]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.07-02.44.48:123][796]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.07-02.44.48:123][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.48:124][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.44.48:124][796]LogWorld: BeginTearingDown for /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.44.48:124][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.48:124][796]LogWorld: UWorld::CleanupWorld for prueba_2d, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.44.48:239][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.44.48:256][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-02.44.48:256][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.48:264][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.44.48:308][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.44.48:314][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.44.48:319][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.06.07-02.44.48:347][797]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.07-02.44.50:663][928]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-02.44.50:701][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.50:701][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-02.44.50:701][928]PIE: New page: Sesión PIE (reproducción en el editor): prueba_2d (06-06-2020 18:44:50)
+[2020.06.07-02.44.50:701][928]LogPlayLevel: Creating play world package: /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.44.50:715][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013455s)
+[2020.06.07-02.44.50:716][928]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.44.50:716][928]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2020.06.07-02.44.50:716][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/prueba_2d.prueba_2d to /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d (0.014994s)
+[2020.06.07-02.44.50:759][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.44.50:761][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.44.50:761][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.44.50:762][928]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.44.50:762][928]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.44.50:768][928]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.44.50:794][928]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.44.50:797][928]LogInit: FAudioDevice initialized.
+[2020.06.07-02.44.50:810][928]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.07-02.44.50:849][928]LogWorld: Bringing World /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d up for play (max tick rate 60) at 2020.06.06-22.44.50
+[2020.06.07-02.44.50:852][928]LogWorld: Bringing up level for play took: 0.041046
+[2020.06.07-02.44.50:853][928]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.06.07-02.44.50:933][928]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/UEDPIE_0_prueba_2d 0,134
+[2020.06.07-02.44.50:933][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.44.54:815][158]Set new viewmode: Unlit
+[2020.06.07-02.45.09:923][ 59]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.45.09:932][ 59]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.07-02.45.09:953][ 59]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.07-02.45.09:953][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.45.09:953][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.45.09:953][ 59]LogWorld: BeginTearingDown for /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.45.09:953][ 59]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.45.09:954][ 59]LogWorld: UWorld::CleanupWorld for prueba_2d, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.45.10:081][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.45.10:089][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-02.45.10:090][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.45.10:099][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.45.10:141][ 59]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.45.10:146][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.45.10:151][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.06.07-02.45.10:167][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.07-02.45.33:334][428]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.45.33:424][428]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.06.07-02.45.33:516][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.06.07-02.45.33:516][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.07-02.45.33:516][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.45.33:516][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.07-02.45.33:694][428]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2020.06.07-02.45.50:961][381]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1CFC4FC3B46B07140CFCED89A24A5D114.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset'
+[2020.06.07-02.45.50:980][381]AssetCheck: New page: Asset Save: Reproductor_1
+[2020.06.07-02.45.50:980][381]LogContentValidation: Display: Validating MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.46.18:739][670]LogSlate: Window 'Save Asset As' being destroyed
+[2020.06.07-02.46.19:076][670]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/PlayList1FA29B01E4C63AF5D761A7DA74D4500A1.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/PlayList1.uasset'
+[2020.06.07-02.46.19:616][670]AssetCheck: New page: Asset Save: PlayList1
+[2020.06.07-02.46.19:616][670]LogContentValidation: Display: Validating MediaPlaylist /Game/Cinematicas/Level_1/PlayList1.PlayList1
+[2020.06.07-02.46.22:741][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.06.07-02.46.22:746][836]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/prueba_2d' took 0.050
+[2020.06.07-02.46.22:747][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematicas/Level_1/Video_Player] ([1] browsable assets)...
+[2020.06.07-02.46.22:747][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematicas/Level_1/Video_Player]
+[2020.06.07-02.46.22:812][836]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Video_Player_Auto178945F5B49186F1522F4FB95CE53CF4C.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Cinematicas/Level_1/Video_Player_Auto1.uasset'
+[2020.06.07-02.46.22:815][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematicas/Level_1/video_barquero] ([1] browsable assets)...
+[2020.06.07-02.46.22:815][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematicas/Level_1/video_barquero]
+[2020.06.07-02.46.22:872][836]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/video_barquero_Auto13B7D3D664A57BE0A5F4A32BF9470D5BE.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Cinematicas/Level_1/video_barquero_Auto1.uasset'
+[2020.06.07-02.46.22:874][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cinematicas/Level_1/Reproductor_1_Video] ([1] browsable assets)...
+[2020.06.07-02.46.22:876][836]OBJ SavePackage:     Rendered thumbnail for [MediaTexture /Game/Cinematicas/Level_1/Reproductor_1_Video.Reproductor_1_Video]
+[2020.06.07-02.46.22:876][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematicas/Level_1/Reproductor_1_Video]
+[2020.06.07-02.46.22:940][836]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_Auto15BCBC79E4EA1174ED13FA39716A34AD5.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Cinematicas/Level_1/Reproductor_1_Video_Auto1.uasset'
+[2020.06.07-02.46.22:942][836]LogFileHelpers: Auto-saving content packages took 0.195
+[2020.06.07-02.46.25:666][985]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.46.25:673][985]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.47.14:686][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.06.07-02.47.20:445][999]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.07-02.47.20:968][999]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cinematicas/Level_1/video_barquero.video_barquero
+[2020.06.07-02.47.21:910][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.06.07-02.47.21:954][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.06.07-02.47.21:989][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.06.07-02.47.40:038][ 96]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/OBJETOS/Videos/video barquero.avi)
+[2020.06.07-02.47.42:274][222]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.47.42:344][222]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.06.07-02.47.42:467][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.06.07-02.47.42:468][222]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.07-02.47.42:468][222]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.47.42:468][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.07-02.47.42:599][222]LogContentBrowser: Verbose: The majority of assets in the view are of type: MediaPlaylist
+[2020.06.07-02.47.56:221][981]LogMediaAssets: Warning: Reproductor_1.OpenPlaylistIndex called with invalid PlaylistIndex 0
+[2020.06.07-02.48.07:767][604]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_18BF4E87E4B9DAA79C73B62A1B8D8B271.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1.uasset'
+[2020.06.07-02.48.07:787][604]AssetCheck: New page: Asset Save: Reproductor_1
+[2020.06.07-02.48.07:787][604]LogContentValidation: Display: Validating MediaPlayer /Game/Cinematicas/Level_1/Reproductor_1.Reproductor_1
+[2020.06.07-02.48.08:739][659]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.48.08:749][659]LogSlate: Window 'Reproductor_1' being destroyed
+[2020.06.07-02.48.11:077][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.06.07-02.48.13:742][783]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.07-02.48.14:141][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.06.07-02.48.14:192][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.06.07-02.48.14:226][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.07-02.48.14:918][783]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/PlayList1.uasset' did not match any file(s) known to git
+[2020.06.07-02.48.15:362][783]SourceControl: Error: fatal: pathspec 'C:/Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/PlayList1.uasset' did not match any files
+[2020.06.07-02.48.15:366][783]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.06.07-02.48.16:823][865]LogAssetEditorSubsystem: Opening Asset editor for MediaTexture /Game/Cinematicas/Level_1/Reproductor_1_Video.Reproductor_1_Video
+[2020.06.07-02.48.16:829][865]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.06.07-02.48.32:254][715]LogSlate: Window 'Reproductor_1_Video' being destroyed
+[2020.06.07-02.48.32:264][715]LogSlate: Window 'Reproductor_1_Video' being destroyed
+[2020.06.07-02.48.33:893][802]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.48.33:900][802]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.06.07-02.48.34:109][802]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.06.07-02.48.34:119][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.48.34:119][802]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.48.34:119][802]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.48.34:119][802]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.48.34:124][802]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.06.07-02.48.34:152][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.48.34:857][828]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.06.07-02.48.34:880][829]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.07-02.48.35:149][842]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.07-02.48.35:377][853]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.06.07-02.48.35:654][864]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.07-02.48.35:856][873]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.07-02.48.35:898][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.07-02.48.35:937][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.07-02.48.36:015][880]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.07-02.48.36:208][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.07-02.48.36:327][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.06.07-02.48.36:372][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.07-02.48.36:394][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.07-02.48.36:431][897]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.48.36:431][897]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.48.36:431][897]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.48.36:431][897]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-02.48.36:431][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.07-02.48.36:432][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.07-02.48.37:471][943]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.06.07-02.48.37:491][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.48.37:491][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.48.37:491][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.48.37:491][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.48.37:500][943]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.07-02.48.37:956][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.07-02.48.37:956][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.07-02.48.38:268][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.07-02.48.38:372][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.07-02.48.38:372][981]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.07-02.48.38:394][982]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.07-02.48.38:623][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.07-02.48.38:647][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.07-02.48.38:683][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.07-02.48.38:717][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.07-02.48.44:121][291]LogMaterialEditor: Saving and Compiling material Reproductor_1_Video_Mat
+[2020.06.07-02.48.44:804][291]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.06.07-02.48.44:863][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.07-02.48.44:863][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.07-02.48.44:863][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.07-02.48.44:863][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.07-02.48.44:886][291]LogMaterial: Display: Missing cached shader map for material Reproductor_1_Video_Mat, compiling. 
+[2020.06.07-02.48.45:070][291]LogUObjectHash: Compacting FUObjectHashTables data took  10.29ms
+[2020.06.07-02.48.45:075][291]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.07-02.48.45:194][291]LogUObjectHash: Compacting FUObjectHashTables data took  13.95ms
+[2020.06.07-02.48.45:330][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.07-02.48.47:743][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.07-02.48.47:821][291]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video_Mat8D6293EE480765A2A2AFDE86F10085A3.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video_Mat.uasset'
+[2020.06.07-02.48.47:885][291]AssetCheck: New page: Asset Save: Reproductor_1_Video_Mat
+[2020.06.07-02.48.47:886][291]LogContentValidation: Display: Validating Material /Game/Cinematicas/Level_1/Reproductor_1_Video_Mat.Reproductor_1_Video_Mat
+[2020.06.07-02.48.49:387][374]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.48.49:400][374]LogSlate: Window 'Reproductor_1_Video_Mat' being destroyed
+[2020.06.07-02.48.49:515][374]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.48.49:515][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.48.53:227][580]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Cinematicas/Level_1/Video_Player.Video_Player
+[2020.06.07-02.48.59:634][899]BlueprintLog: New page: Compilar Video_Player
+[2020.06.07-02.48.59:691][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.06.07-02.49.00:807][957]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.49.00:816][957]LogSlate: Window 'Video_Player' being destroyed
+[2020.06.07-02.49.00:827][957]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.49.00:827][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.49.00:866][957]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.49.00:866][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.49.02:494][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-02.49.02:531][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.49.02:531][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-02.49.02:531][ 50]PIE: New page: Sesión PIE (reproducción en el editor): prueba_2d (06-06-2020 18:49:02)
+[2020.06.07-02.49.02:531][ 50]LogPlayLevel: Creating play world package: /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.49.02:544][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012900s)
+[2020.06.07-02.49.02:545][ 50]LogAIModule: Creating AISystem for world prueba_2d
+[2020.06.07-02.49.02:545][ 50]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2020.06.07-02.49.02:545][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/prueba_2d.prueba_2d to /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d (0.014213s)
+[2020.06.07-02.49.02:604][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.07-02.49.02:605][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.07-02.49.02:605][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.07-02.49.02:605][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Is Default: Yes
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: Channel Order:
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.07-02.49.02:615][ 50]LogAudioMixer: Display: 1: FrontRight
+[2020.06.07-02.49.02:648][ 50]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.07-02.49.02:651][ 50]LogInit: FAudioDevice initialized.
+[2020.06.07-02.49.02:666][ 50]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.07-02.49.02:710][ 50]LogWorld: Bringing World /Game/Mapa/UEDPIE_0_prueba_2d.prueba_2d up for play (max tick rate 60) at 2020.06.06-22.49.02
+[2020.06.07-02.49.02:712][ 50]LogWorld: Bringing up level for play took: 0.045643
+[2020.06.07-02.49.02:713][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.06.07-02.49.02:783][ 50]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/UEDPIE_0_prueba_2d -0,016
+[2020.06.07-02.49.02:783][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.49.03:940][117]Set new viewmode: Unlit
+[2020.06.07-02.49.07:519][330]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.07-02.49.56:759][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.49.56:773][282]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.07-02.49.56:793][282]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.07-02.49.56:793][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.49.56:794][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.49.56:794][282]LogWorld: BeginTearingDown for /Game/Mapa/UEDPIE_0_prueba_2d
+[2020.06.07-02.49.56:794][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.49.56:794][282]LogWorld: UWorld::CleanupWorld for prueba_2d, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.49.56:916][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.49.56:929][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-02.49.56:930][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d' with GeneratedClass '/Game/Mapa/prueba_2d.prueba_2d_C' with ClassGeneratedBy '/Game/Mapa/prueba_2d.prueba_2d:PersistentLevel.prueba_2d'
+[2020.06.07-02.49.56:937][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.49.56:978][282]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.07-02.49.56:989][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-02.49.56:998][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.06.07-02.49.57:017][283]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.06.07-02.51.03:156][140]Cmd: DELETE
+[2020.06.07-02.51.03:156][140]Cmd: ACTOR DELETE
+[2020.06.07-02.51.03:162][140]LogEditorActor: Deleted Actor: Abeja_C
+[2020.06.07-02.51.03:204][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.07-02.51.03:210][140]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.06.07-02.51.16:351][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mapa/Enemigos/Enemigo1.Enemigo1
+[2020.06.07-02.51.18:552][981]LogRenderer: Reallocating scene render targets to support 772x488 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-02.51.23:222][162]LogSlate: Window 'Enemigo1' being destroyed
+[2020.06.07-02.51.23:231][162]LogSlate: Window 'Enemigo1' being destroyed
+[2020.06.07-02.51.23:245][162]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-02.51.23:245][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-02.51.42:763][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.06.07-02.51.43:321][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.07-02.51.43:734][239]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/prueba_2d7A91448E42B06B4EF377F3BF69D0B2D0.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/prueba_2d.umap'
+[2020.06.07-02.51.43:820][239]LogFileHelpers: Saving map 'prueba_2d' took 0.540
+[2020.06.07-02.51.43:888][239]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Video_PlayerE1856C0248846B407FA72EA765067249.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Video_Player.uasset'
+[2020.06.07-02.51.43:920][239]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/video_barqueroE90C573E41D7D9A35579AA909678E8A0.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/video_barquero.uasset'
+[2020.06.07-02.51.44:733][239]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Reproductor_1_Video0DDBC4A2422A12613A341B85225F50D2.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Cinematicas/Level_1/Reproductor_1_Video.uasset'
+[2020.06.07-02.51.46:756][239]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.07-02.51.46:756][239]LogContentValidation: Display: Validating World /Game/Mapa/prueba_2d.prueba_2d
+[2020.06.07-02.51.46:756][239]LogContentValidation: Display: Validating WidgetBlueprint /Game/Cinematicas/Level_1/Video_Player.Video_Player
+[2020.06.07-02.51.46:756][239]LogContentValidation: Display: Validating FileMediaSource /Game/Cinematicas/Level_1/video_barquero.video_barquero
+[2020.06.07-02.51.46:756][239]LogContentValidation: Display: Validating MediaTexture /Game/Cinematicas/Level_1/Reproductor_1_Video.Reproductor_1_Video
+[2020.06.07-02.51.48:404][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.06.07-02.51.49:294][310]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/prueba_2d2411726D4E437055DFCC41B3D08A6D4A.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Universidad/Videojuegos/Unreal Github/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/prueba_2d.umap'
+[2020.06.07-02.51.49:432][310]AssetCheck: New page: Asset Save: prueba_2d
+[2020.06.07-02.51.49:432][310]LogContentValidation: Display: Validating World /Game/Mapa/prueba_2d.prueba_2d
