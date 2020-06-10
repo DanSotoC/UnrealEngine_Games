@@ -857,3 +857,92 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-23.26.07:281][762]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
 [2020.06.10-23.26.12:138][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2020.06.10-23.26.16:071][254]LogEditorViewport: Clicking Background
+[2020.06.10-23.35.10:001][712]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa28DCD40EF4A8639B9116B1682F7C6BC98.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-23.35.10:060][712]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-23.35.10:060][712]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-23.35.30:823][  0]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.10-23.35.30:881][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.10-23.35.30:881][  0]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 15:35:30)
+[2020.06.10-23.35.30:881][  0]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.10-23.35.30:883][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2020.06.10-23.35.30:884][  0]LogAIModule: Creating AISystem for world nivel2
+[2020.06.10-23.35.30:884][  0]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2020.06.10-23.35.30:884][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.003407s)
+[2020.06.10-23.35.30:950][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.10-23.35.30:977][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.10-23.35.30:977][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.10-23.35.30:978][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.10-23.35.30:978][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.10-23.35.30:993][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.10-23.35.31:015][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.06.10-23.35.31:018][  0]LogInit: FAudioDevice initialized.
+[2020.06.10-23.35.31:030][  0]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.10-23.35.31:039][  0]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-19.35.31
+[2020.06.10-23.35.31:039][  0]LogWorld: Bringing up level for play took: 0.008158
+[2020.06.10-23.35.31:039][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.06.10-23.35.31:050][  0]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,402
+[2020.06.10-23.36.23:632][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-23.36.23:632][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-23.36.23:632][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-23.36.23:632][804]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.10-23.36.23:633][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-23.36.23:633][804]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-23.36.23:636][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-23.36.23:714][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.10-23.36.23:721][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-23.36.23:767][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.10-23.36.23:773][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.10-23.36.23:778][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.06.10-23.36.23:857][805]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.10-23.45.49:487][914]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.49:487][914]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.50:178][922]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.50:178][922]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.50:620][929]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.50:620][929]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.50:903][933]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.50:903][933]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.51:120][936]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.51:120][936]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.51:341][936]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.51:341][936]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.51:579][940]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.51:579][940]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.51:841][944]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.51:841][944]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.52:142][947]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.52:143][947]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.45.52:453][952]Cmd: TRANSACTION UNDO
+[2020.06.10-23.45.52:453][952]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.46.27:643][573]Cmd: TRANSACTION UNDO
+[2020.06.10-23.46.27:644][573]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.46.28:093][577]Cmd: TRANSACTION UNDO
+[2020.06.10-23.46.28:093][577]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.46.28:437][582]Cmd: TRANSACTION UNDO
+[2020.06.10-23.46.28:437][582]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.46.29:075][593]Cmd: TRANSACTION UNDO
+[2020.06.10-23.46.29:075][593]LogEditorTransaction: Undo Tile Painting
+[2020.06.10-23.47.16:155][300]Cmd: TRANSACTION UNDO
+[2020.06.10-23.47.16:155][300]LogEditorTransaction: Undo Tile Paint Bucket
+[2020.06.10-23.47.36:934][621]Cmd: TRANSACTION UNDO
+[2020.06.10-23.47.36:934][621]LogEditorTransaction: Undo Tile Paint Bucket
+[2020.06.10-23.48.02:929][ 29]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa21CD845B04442591CA224E19E280545FC.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-23.48.02:957][ 29]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-23.48.02:957][ 29]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-23.49.35:200][434]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2C8EE6E954F41B721BF7260A751443A0B.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-23.49.35:232][434]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-23.49.35:232][434]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
