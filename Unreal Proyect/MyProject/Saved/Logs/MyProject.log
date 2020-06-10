@@ -946,3 +946,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-23.49.35:200][434]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2C8EE6E954F41B721BF7260A751443A0B.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
 [2020.06.10-23.49.35:232][434]AssetCheck: New page: Asset Save: mapa2
 [2020.06.10-23.49.35:232][434]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-23.50.10:850][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
