@@ -851,3 +851,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-23.18.28:688][387]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.10-23.18.28:688][387]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
 [2020.06.10-23.18.28:688][387]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.10-23.26.07:121][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.06.10-23.26.07:163][762]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2F0B0B5B642160CEFB41F16AC3B93B6BA.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.10-23.26.07:281][762]AssetCheck: New page: Asset Save: nivel2
+[2020.06.10-23.26.07:281][762]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.10-23.26.12:138][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.06.10-23.26.16:071][254]LogEditorViewport: Clicking Background
