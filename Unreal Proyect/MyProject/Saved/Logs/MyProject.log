@@ -1150,3 +1150,304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-18.24.36:170][778]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Yellow_tiles/tileYellow_25.tileYellow_25
 [2020.06.10-18.24.36:170][778]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Yellow_tiles/tileYellow_26.tileYellow_26
 [2020.06.10-18.24.36:170][778]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Yellow_tiles/tileYellow_27.tileYellow_27
+[2020.06.10-18.27.04:570][573]LogTexture: Display: Building textures: tileBrown_10 (BGRA8, 64X64)
+[2020.06.10-18.27.04:574][573]LogTexture: Display: Building textures: tileBrown_11 (BGRA8, 64X64)
+[2020.06.10-18.27.04:578][573]LogTexture: Display: Building textures: tileBrown_12 (BGRA8, 64X64)
+[2020.06.10-18.27.04:581][573]LogTexture: Display: Building textures: tileBrown_13 (BGRA8, 64X64)
+[2020.06.10-18.27.04:585][573]LogTexture: Display: Building textures: tileBrown_14 (BGRA8, 64X64)
+[2020.06.10-18.27.04:612][573]LogTexture: Display: Building textures: tileBrown_15 (BGRA8, 64X64)
+[2020.06.10-18.27.04:615][573]LogTexture: Display: Building textures: tileBrown_16 (BGRA8, 64X64)
+[2020.06.10-18.27.04:619][573]LogTexture: Display: Building textures: tileBrown_17 (BGRA8, 64X64)
+[2020.06.10-18.27.04:622][573]LogTexture: Display: Building textures: tileBrown_18 (BGRA8, 64X64)
+[2020.06.10-18.27.04:626][573]LogTexture: Display: Building textures: tileBrown_19 (BGRA8, 64X64)
+[2020.06.10-18.27.04:630][573]LogTexture: Display: Building textures: tileBrown_20 (BGRA8, 64X64)
+[2020.06.10-18.27.04:633][573]LogTexture: Display: Building textures: tileBrown_21 (BGRA8, 64X64)
+[2020.06.10-18.27.04:638][573]LogTexture: Display: Building textures: tileBrown_22 (BGRA8, 64X64)
+[2020.06.10-18.27.04:642][573]LogTexture: Display: Building textures: tileBrown_23 (BGRA8, 64X64)
+[2020.06.10-18.27.04:654][573]LogTexture: Display: Building textures: tileBrown_24 (BGRA8, 64X64)
+[2020.06.10-18.27.04:658][573]LogTexture: Display: Building textures: tileBrown_25 (BGRA8, 64X64)
+[2020.06.10-18.27.04:663][573]LogTexture: Display: Building textures: tileBrown_26 (BGRA8, 64X64)
+[2020.06.10-18.27.04:667][573]LogTexture: Display: Building textures: tileBrown_27 (BGRA8, 64X64)
+[2020.06.10-18.27.04:672][573]LogTexture: Display: Building textures: tileBrown_01 (BGRA8, 64X64)
+[2020.06.10-18.27.04:676][573]LogTexture: Display: Building textures: tileBrown_02 (BGRA8, 64X64)
+[2020.06.10-18.27.04:681][573]LogTexture: Display: Building textures: tileBrown_03 (BGRA8, 64X64)
+[2020.06.10-18.27.04:685][573]LogTexture: Display: Building textures: tileBrown_04 (BGRA8, 64X64)
+[2020.06.10-18.27.04:698][573]LogTexture: Display: Building textures: tileBrown_09 (BGRA8, 64X64)
+[2020.06.10-18.27.42:881][687]LogSlate: Window '27 Texture2D Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.27.42:885][687]LogSlate: Window '27 Texture2D Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.28.32:030][404]LogSlate: Window '27 PaperTileSet Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.28.32:068][404]LogSlate: Window '27 PaperTileSet Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.28.38:010][710]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_01_TileSet.tileBrown_01_TileSet
+[2020.06.10-18.28.38:338][710]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.10-18.29.32:739][  6]LogSlate: Window '24 PaperTileSet Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.29.32:756][  6]LogSlate: Window '24 PaperTileSet Objects - Property Matrix Editor' being destroyed
+[2020.06.10-18.29.32:772][  6]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.29.32:772][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.29.46:975][747]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_01_TileSet.tileBrown_01_TileSet
+[2020.06.10-18.30.05:316][274]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_01_TileSetEB3477B7493C2D87098E648FFE22B9D4.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_01_TileSet.uasset'
+[2020.06.10-18.30.05:835][274]AssetCheck: New page: Asset Save: tileBrown_01_TileSet
+[2020.06.10-18.30.05:835][274]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_01_TileSet.tileBrown_01_TileSet
+[2020.06.10-18.30.07:015][304]LogSlate: Window 'tileBrown_01_TileSet' being destroyed
+[2020.06.10-18.30.07:058][304]LogSlate: Window 'tileBrown_01_TileSet' being destroyed
+[2020.06.10-18.30.07:150][304]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.30.07:150][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.31.24:291][787]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_02_TileSet.tileBrown_02_TileSet
+[2020.06.10-18.31.38:833][173]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_02_TileSetA3A23F96430D18B5A6F419A713259F3C.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_02_TileSet.uasset'
+[2020.06.10-18.31.39:302][173]AssetCheck: New page: Asset Save: tileBrown_02_TileSet
+[2020.06.10-18.31.39:302][173]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_02_TileSet.tileBrown_02_TileSet
+[2020.06.10-18.31.41:925][241]LogSlate: Window 'tileBrown_02_TileSet' being destroyed
+[2020.06.10-18.31.42:027][241]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.31.42:027][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.31.46:732][441]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_04_TileSet.tileBrown_04_TileSet
+[2020.06.10-18.31.58:931][745]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_04_TileSet603145C4475DD49605EA35AC4EFD565D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_04_TileSet.uasset'
+[2020.06.10-18.31.59:444][745]AssetCheck: New page: Asset Save: tileBrown_04_TileSet
+[2020.06.10-18.31.59:445][745]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_04_TileSet.tileBrown_04_TileSet
+[2020.06.10-18.32.00:566][773]LogSlate: Window 'tileBrown_04_TileSet' being destroyed
+[2020.06.10-18.32.00:669][773]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.32.00:669][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.32.05:703][985]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_03_TileSet.tileBrown_03_TileSet
+[2020.06.10-18.32.14:913][202]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_03_TileSet71751CF84E309CACB29F72A4ACF76651.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_03_TileSet.uasset'
+[2020.06.10-18.32.15:506][202]AssetCheck: New page: Asset Save: tileBrown_03_TileSet
+[2020.06.10-18.32.15:507][202]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_03_TileSet.tileBrown_03_TileSet
+[2020.06.10-18.32.20:996][333]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_03_TileSet6CA6C3464AFEACC8730B65A986BF55DB.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_03_TileSet.uasset'
+[2020.06.10-18.32.21:034][333]AssetCheck: New page: Asset Save: tileBrown_03_TileSet
+[2020.06.10-18.32.21:035][333]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_03_TileSet.tileBrown_03_TileSet
+[2020.06.10-18.32.22:786][375]LogSlate: Window 'tileBrown_03_TileSet' being destroyed
+[2020.06.10-18.32.22:898][375]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.32.22:899][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.32.27:554][561]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_04_TileSet.tileBrown_04_TileSet
+[2020.06.10-18.32.30:023][614]LogSlate: Window 'tileBrown_04_TileSet' being destroyed
+[2020.06.10-18.32.30:122][614]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.32.30:122][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.32.31:145][647]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_05_TileSet.tileBrown_05_TileSet
+[2020.06.10-18.32.53:579][233]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_05_TileSet8340DFEC4F133BA63DBC3DA89A8FF3F1.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_05_TileSet.uasset'
+[2020.06.10-18.32.54:020][233]AssetCheck: New page: Asset Save: tileBrown_05_TileSet
+[2020.06.10-18.32.54:020][233]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_05_TileSet.tileBrown_05_TileSet
+[2020.06.10-18.32.55:502][272]LogSlate: Window 'tileBrown_05_TileSet' being destroyed
+[2020.06.10-18.32.55:602][272]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.32.55:602][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.32.57:287][338]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_06_TileSet.tileBrown_06_TileSet
+[2020.06.10-18.33.08:938][602]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_06_TileSet916D850B4221FA4E493EBEA7AE8B0213.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_06_TileSet.uasset'
+[2020.06.10-18.33.09:392][602]AssetCheck: New page: Asset Save: tileBrown_06_TileSet
+[2020.06.10-18.33.09:392][602]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_06_TileSet.tileBrown_06_TileSet
+[2020.06.10-18.33.10:003][618]LogSlate: Window 'tileBrown_06_TileSet' being destroyed
+[2020.06.10-18.33.10:098][618]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.33.10:098][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.33.11:967][686]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_07_TileSet.tileBrown_07_TileSet
+[2020.06.10-18.33.26:114][944]LogSlate: Window 'tileBrown_07_TileSet' being destroyed
+[2020.06.10-18.33.26:210][944]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.33.26:210][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.33.27:949][  6]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_08_TileSet.tileBrown_08_TileSet
+[2020.06.10-18.33.40:733][289]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_08_TileSet68199EC6489F6197689513945097B1D4.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_08_TileSet.uasset'
+[2020.06.10-18.33.41:206][289]AssetCheck: New page: Asset Save: tileBrown_08_TileSet
+[2020.06.10-18.33.41:206][289]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_08_TileSet.tileBrown_08_TileSet
+[2020.06.10-18.33.41:706][302]LogSlate: Window 'tileBrown_08_TileSet' being destroyed
+[2020.06.10-18.33.41:797][302]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.33.41:797][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.33.43:986][364]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_09_TileSet.tileBrown_09_TileSet
+[2020.06.10-18.33.59:163][620]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_09_TileSet7624767D4E4F064A5F060B991B669B35.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_09_TileSet.uasset'
+[2020.06.10-18.33.59:638][620]AssetCheck: New page: Asset Save: tileBrown_09_TileSet
+[2020.06.10-18.33.59:638][620]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_09_TileSet.tileBrown_09_TileSet
+[2020.06.10-18.34.01:165][657]LogSlate: Window 'tileBrown_09_TileSet' being destroyed
+[2020.06.10-18.34.01:265][657]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.34.01:265][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.34.02:992][712]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_10_TileSet.tileBrown_10_TileSet
+[2020.06.10-18.34.26:802][211]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_10_TileSetD39AC0D145178E67E40D26B37C1E89A8.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_10_TileSet.uasset'
+[2020.06.10-18.34.27:394][211]AssetCheck: New page: Asset Save: tileBrown_10_TileSet
+[2020.06.10-18.34.27:395][211]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_10_TileSet.tileBrown_10_TileSet
+[2020.06.10-18.34.28:922][242]LogSlate: Window 'tileBrown_10_TileSet' being destroyed
+[2020.06.10-18.34.29:011][242]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.34.29:012][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.34.31:222][309]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_11_TileSet.tileBrown_11_TileSet
+[2020.06.10-18.35.03:661][961]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_11_TileSetB21BCA334F9B72D9BE23CA9A828C4868.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_11_TileSet.uasset'
+[2020.06.10-18.35.04:148][961]AssetCheck: New page: Asset Save: tileBrown_11_TileSet
+[2020.06.10-18.35.04:149][961]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_11_TileSet.tileBrown_11_TileSet
+[2020.06.10-18.35.04:684][972]LogSlate: Window 'tileBrown_11_TileSet' being destroyed
+[2020.06.10-18.35.04:769][972]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.35.04:769][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.35.06:240][ 12]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_12_TileSet.tileBrown_12_TileSet
+[2020.06.10-18.35.29:811][453]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_12_TileSetE614136D437ABC998F999EBFCCE1623D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_12_TileSet.uasset'
+[2020.06.10-18.35.30:262][453]AssetCheck: New page: Asset Save: tileBrown_12_TileSet
+[2020.06.10-18.35.30:263][453]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_12_TileSet.tileBrown_12_TileSet
+[2020.06.10-18.35.31:314][486]LogSlate: Window 'tileBrown_12_TileSet' being destroyed
+[2020.06.10-18.35.31:418][486]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.35.31:418][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.35.33:168][536]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_13_TileSet.tileBrown_13_TileSet
+[2020.06.10-18.35.55:336][958]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_13_TileSet4CABFB3A433B630A76509DA329B6093C.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_13_TileSet.uasset'
+[2020.06.10-18.35.55:745][958]AssetCheck: New page: Asset Save: tileBrown_13_TileSet
+[2020.06.10-18.35.55:745][958]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_13_TileSet.tileBrown_13_TileSet
+[2020.06.10-18.35.58:587][ 12]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_13_TileSet68D88DAB43CAC3B68CBD79BA1A6404CE.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_13_TileSet.uasset'
+[2020.06.10-18.35.58:615][ 12]AssetCheck: New page: Asset Save: tileBrown_13_TileSet
+[2020.06.10-18.35.58:615][ 12]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_13_TileSet.tileBrown_13_TileSet
+[2020.06.10-18.35.59:264][ 28]LogSlate: Window 'tileBrown_13_TileSet' being destroyed
+[2020.06.10-18.35.59:351][ 28]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.35.59:352][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.36.00:841][ 69]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_14_TileSet.tileBrown_14_TileSet
+[2020.06.10-18.36.14:269][304]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_14_TileSet387EF6B1414ED51C56495A958764E6C7.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_14_TileSet.uasset'
+[2020.06.10-18.36.14:774][304]AssetCheck: New page: Asset Save: tileBrown_14_TileSet
+[2020.06.10-18.36.14:774][304]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_14_TileSet.tileBrown_14_TileSet
+[2020.06.10-18.36.17:600][355]LogSlate: Window 'tileBrown_14_TileSet' being destroyed
+[2020.06.10-18.36.17:688][355]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.36.17:688][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.36.19:143][397]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_15_TileSet.tileBrown_15_TileSet
+[2020.06.10-18.36.27:739][537]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_15_TileSet99D6355A4985B6E3BF0B26A856C5FAC9.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_15_TileSet.uasset'
+[2020.06.10-18.36.28:154][537]AssetCheck: New page: Asset Save: tileBrown_15_TileSet
+[2020.06.10-18.36.28:154][537]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_15_TileSet.tileBrown_15_TileSet
+[2020.06.10-18.36.28:766][551]LogSlate: Window 'tileBrown_15_TileSet' being destroyed
+[2020.06.10-18.36.28:866][551]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.36.28:867][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.36.30:101][584]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_16_TileSet.tileBrown_16_TileSet
+[2020.06.10-18.36.39:358][733]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_16_TileSet63BD002D44B4591A4A012BBFBC3AF62C.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_16_TileSet.uasset'
+[2020.06.10-18.36.39:800][733]AssetCheck: New page: Asset Save: tileBrown_16_TileSet
+[2020.06.10-18.36.39:800][733]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_16_TileSet.tileBrown_16_TileSet
+[2020.06.10-18.36.40:402][746]LogSlate: Window 'tileBrown_16_TileSet' being destroyed
+[2020.06.10-18.36.40:511][746]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.36.40:511][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.36.41:968][786]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_17_TileSet.tileBrown_17_TileSet
+[2020.06.10-18.36.56:418][991]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_17_TileSetA6896A9E4FD028EA3F5EA68C840B3D9D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_17_TileSet.uasset'
+[2020.06.10-18.36.56:915][991]AssetCheck: New page: Asset Save: tileBrown_17_TileSet
+[2020.06.10-18.36.56:916][991]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_17_TileSet.tileBrown_17_TileSet
+[2020.06.10-18.36.57:632][  6]LogSlate: Window 'tileBrown_17_TileSet' being destroyed
+[2020.06.10-18.36.57:732][  6]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.36.57:733][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.36.59:552][ 71]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_18_TileSet.tileBrown_18_TileSet
+[2020.06.10-18.37.10:198][287]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_18_TileSetBCAF9DA447E7A7E3674A2189E8107E3D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_18_TileSet.uasset'
+[2020.06.10-18.37.10:625][287]AssetCheck: New page: Asset Save: tileBrown_18_TileSet
+[2020.06.10-18.37.10:625][287]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_18_TileSet.tileBrown_18_TileSet
+[2020.06.10-18.37.11:167][301]LogSlate: Window 'tileBrown_18_TileSet' being destroyed
+[2020.06.10-18.37.11:255][301]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.37.11:255][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.37.14:482][430]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_19_TileSet.tileBrown_19_TileSet
+[2020.06.10-18.37.22:256][598]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_19_TileSetAEC6F37147820062470FEA87013CB4AC.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_19_TileSet.uasset'
+[2020.06.10-18.37.22:661][598]AssetCheck: New page: Asset Save: tileBrown_19_TileSet
+[2020.06.10-18.37.22:662][598]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_19_TileSet.tileBrown_19_TileSet
+[2020.06.10-18.37.23:238][615]LogSlate: Window 'tileBrown_19_TileSet' being destroyed
+[2020.06.10-18.37.23:321][615]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.37.23:321][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.37.24:804][671]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_20_TileSet.tileBrown_20_TileSet
+[2020.06.10-18.37.33:172][856]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_20_TileSet5135CC7E4AF92FBFA76AEB8ADF1B8C64.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_20_TileSet.uasset'
+[2020.06.10-18.37.33:676][856]AssetCheck: New page: Asset Save: tileBrown_20_TileSet
+[2020.06.10-18.37.33:677][856]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_20_TileSet.tileBrown_20_TileSet
+[2020.06.10-18.37.34:795][884]LogSlate: Window 'tileBrown_20_TileSet' being destroyed
+[2020.06.10-18.37.34:894][884]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.37.34:894][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.37.36:348][943]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_21_TileSet.tileBrown_21_TileSet
+[2020.06.10-18.37.43:949][109]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_21_TileSet0604392E4089C142FCE31E84368D31BF.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_21_TileSet.uasset'
+[2020.06.10-18.37.44:403][109]AssetCheck: New page: Asset Save: tileBrown_21_TileSet
+[2020.06.10-18.37.44:403][109]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_21_TileSet.tileBrown_21_TileSet
+[2020.06.10-18.37.44:880][123]LogSlate: Window 'tileBrown_21_TileSet' being destroyed
+[2020.06.10-18.37.44:964][123]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.37.44:964][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.37.47:579][200]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_22_TileSet.tileBrown_22_TileSet
+[2020.06.10-18.37.55:061][320]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_22_TileSet3C309A4C4580F74AA8CA758B888E373E.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_22_TileSet.uasset'
+[2020.06.10-18.37.55:518][320]AssetCheck: New page: Asset Save: tileBrown_22_TileSet
+[2020.06.10-18.37.55:518][320]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_22_TileSet.tileBrown_22_TileSet
+[2020.06.10-18.37.56:049][331]LogSlate: Window 'tileBrown_22_TileSet' being destroyed
+[2020.06.10-18.37.56:167][331]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.37.56:168][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.37.57:529][373]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_23_TileSet.tileBrown_23_TileSet
+[2020.06.10-18.38.13:528][623]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_23_TileSet95A8F50146529DB25AF79CBBA13F6DAB.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_23_TileSet.uasset'
+[2020.06.10-18.38.14:149][623]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.14:650][623]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.14:913][623]AssetCheck: New page: Asset Save: tileBrown_23_TileSet
+[2020.06.10-18.38.14:913][623]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_23_TileSet.tileBrown_23_TileSet
+[2020.06.10-18.38.15:683][638]LogSlate: Window 'tileBrown_23_TileSet' being destroyed
+[2020.06.10-18.38.15:774][638]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.38.15:774][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.38.16:349][640]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.16:856][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.18:028][664]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_24_TileSet.tileBrown_24_TileSet
+[2020.06.10-18.38.30:418][774]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.33:905][799]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.36:404][799]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.38.52:534][ 14]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_24_TileSet08DA4C2749DCEB12B23AE797DF32ED29.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_24_TileSet.uasset'
+[2020.06.10-18.38.52:977][ 14]AssetCheck: New page: Asset Save: tileBrown_24_TileSet
+[2020.06.10-18.38.52:977][ 14]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_24_TileSet.tileBrown_24_TileSet
+[2020.06.10-18.38.55:354][ 55]LogSlate: Window 'tileBrown_24_TileSet' being destroyed
+[2020.06.10-18.38.55:473][ 55]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.38.55:473][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.38.57:389][123]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_25_TileSet.tileBrown_25_TileSet
+[2020.06.10-18.39.05:335][256]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_25_TileSetC1F7BA76431FAD76F08E92986369A96E.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_25_TileSet.uasset'
+[2020.06.10-18.39.05:753][256]AssetCheck: New page: Asset Save: tileBrown_25_TileSet
+[2020.06.10-18.39.05:753][256]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_25_TileSet.tileBrown_25_TileSet
+[2020.06.10-18.39.06:344][269]LogSlate: Window 'tileBrown_25_TileSet' being destroyed
+[2020.06.10-18.39.06:448][269]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.39.06:448][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.39.07:702][301]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_26_TileSet.tileBrown_26_TileSet
+[2020.06.10-18.39.20:808][498]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_26_TileSet8E40AE3647AB9B013F1070AA2813BAD6.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_26_TileSet.uasset'
+[2020.06.10-18.39.21:264][498]AssetCheck: New page: Asset Save: tileBrown_26_TileSet
+[2020.06.10-18.39.21:264][498]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_26_TileSet.tileBrown_26_TileSet
+[2020.06.10-18.39.23:125][543]LogSlate: Window 'tileBrown_26_TileSet' being destroyed
+[2020.06.10-18.39.23:212][543]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.39.23:212][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.39.24:497][580]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_27_TileSet.tileBrown_27_TileSet
+[2020.06.10-18.39.36:213][754]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_27_TileSetEA5A63A74D1CAA67FE814EB7BE60FF87.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_27_TileSet.uasset'
+[2020.06.10-18.39.36:685][754]AssetCheck: New page: Asset Save: tileBrown_27_TileSet
+[2020.06.10-18.39.36:685][754]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_27_TileSet.tileBrown_27_TileSet
+[2020.06.10-18.39.37:271][765]LogSlate: Window 'tileBrown_27_TileSet' being destroyed
+[2020.06.10-18.39.37:380][765]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-18.39.37:380][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-18.39.39:668][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.06.10-18.39.41:752][831]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.06.10-18.39.42:319][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_01A4118DA84BCC9CAE5E3588B8ED7FFA61.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_01.uasset'
+[2020.06.10-18.39.42:435][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_02D8C4253543C715CFD11F07B445B27BAA.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_02.uasset'
+[2020.06.10-18.39.42:576][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_037A73DD134157CE1C2E26588CAF6DFC97.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_03.uasset'
+[2020.06.10-18.39.42:883][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_042B0586A147ADF632E3FFDFAF81592AE0.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_04.uasset'
+[2020.06.10-18.39.43:044][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_0569138A5748DB4B4BDF3628BB7E05744B.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_05.uasset'
+[2020.06.10-18.39.43:156][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_065694117D4C827823C66D51BD6E9C2F79.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_06.uasset'
+[2020.06.10-18.39.43:277][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_07613727394EBFED3DF22DA6969F5BA4FF.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_07.uasset'
+[2020.06.10-18.39.43:329][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_07_TileSetF89A65E64185661B51AF74A17E1C19B6.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_07_TileSet.uasset'
+[2020.06.10-18.39.44:004][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_085C3EC5374AC453C8652499AFAE0BBE6B.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_08.uasset'
+[2020.06.10-18.39.44:119][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_0916E44F174E064FA0A57E808B35562711.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_09.uasset'
+[2020.06.10-18.39.44:288][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_10C541BDF64A207320AC0AA4A1BEE79B8C.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_10.uasset'
+[2020.06.10-18.39.44:485][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_119DA3197A46708E9E7D7679AF4BF34D7D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_11.uasset'
+[2020.06.10-18.39.44:657][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_12BDC325504773351BAA30E797A5EB5117.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_12.uasset'
+[2020.06.10-18.39.44:765][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_136E0A83894662BA01CC3EF9A3ADFF5681.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_13.uasset'
+[2020.06.10-18.39.44:908][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_14DAD64C0941614422781E09B369CF31B5.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_14.uasset'
+[2020.06.10-18.39.44:994][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_15F781984A4FAD181E08CFF6AE91B2AAF0.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_15.uasset'
+[2020.06.10-18.39.45:108][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_16F3EBA1614ADE085390E7B3A0A2458A4F.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_16.uasset'
+[2020.06.10-18.39.46:476][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_17C1EF0B204EFAF68BB7A5AA826B08F3DE.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_17.uasset'
+[2020.06.10-18.39.46:654][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_185D9DEC5D455DE3C65FF67F8AFAA40913.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_18.uasset'
+[2020.06.10-18.39.46:783][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_1977D046404478DEFD83A077BFED0E5096.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_19.uasset'
+[2020.06.10-18.39.46:893][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_20D638EC2946905105E7AA65940F01A6C9.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_20.uasset'
+[2020.06.10-18.39.47:021][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_211F5786324AE0B93FCF41698CD2C0BFE5.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_21.uasset'
+[2020.06.10-18.39.47:290][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_22E8868E3C472BF53871DA68B1F09E3C6F.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_22.uasset'
+[2020.06.10-18.39.47:406][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_2379D7756847C12AEACD8E6AAAF04B0F6A.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_23.uasset'
+[2020.06.10-18.39.47:595][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_24E580F42F4E2C6A183F2376999A907CCC.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_24.uasset'
+[2020.06.10-18.39.47:708][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_25232E99DE49FF51D1EC5EE6A84C500787.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_25.uasset'
+[2020.06.10-18.39.47:885][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_267518F007437ACD1A363991BD402C9457.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_26.uasset'
+[2020.06.10-18.39.48:029][831]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/tileBrown_276CE7D2FC46BD151EC2D43FB24550D73A.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Brown_tiles/tileBrown_27.uasset'
+[2020.06.10-18.39.48:397][831]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_01.tileBrown_01
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_02.tileBrown_02
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_03.tileBrown_03
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_04.tileBrown_04
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_05.tileBrown_05
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_06.tileBrown_06
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_07.tileBrown_07
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating PaperTileSet /Game/Mapa/nivel2/Brown_tiles/tileBrown_07_TileSet.tileBrown_07_TileSet
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_08.tileBrown_08
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_09.tileBrown_09
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_10.tileBrown_10
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_11.tileBrown_11
+[2020.06.10-18.39.48:397][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_12.tileBrown_12
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_13.tileBrown_13
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_14.tileBrown_14
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_15.tileBrown_15
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_16.tileBrown_16
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_17.tileBrown_17
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_18.tileBrown_18
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_19.tileBrown_19
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_20.tileBrown_20
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_21.tileBrown_21
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_22.tileBrown_22
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_23.tileBrown_23
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_24.tileBrown_24
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_25.tileBrown_25
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_26.tileBrown_26
+[2020.06.10-18.39.48:398][831]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Brown_tiles/tileBrown_27.tileBrown_27
+[2020.06.10-18.39.50:494][873]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.40.15:139][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.40.17:383][695]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.40.44:498][606]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.10-18.41.15:883][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
