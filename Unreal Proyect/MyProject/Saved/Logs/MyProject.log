@@ -720,3 +720,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-22.47.00:625][378]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa21EBEF53B43D71BC6A89D42B5EAA72316.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
 [2020.06.10-22.47.00:677][378]AssetCheck: New page: Asset Save: mapa2
 [2020.06.10-22.47.00:677][378]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-22.57.27:883][161]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa29D743EF149211CF19080B99BCBA53CC9.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-22.57.27:923][161]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-22.57.27:923][161]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-22.57.51:967][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.06.10-23.05.15:529][226]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa22B192EAF4659638AF2D2508C87031D75.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-23.05.15:562][226]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-23.05.15:564][226]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
