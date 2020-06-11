@@ -947,3 +947,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-23.49.35:232][434]AssetCheck: New page: Asset Save: mapa2
 [2020.06.10-23.49.35:232][434]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
 [2020.06.10-23.50.10:850][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.06.10-23.58.14:378][963]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2608FEF1B4689300A153B0BA300488DBB.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.10-23.58.14:419][963]AssetCheck: New page: Asset Save: mapa2
+[2020.06.10-23.58.14:420][963]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.10-23.58.53:868][579]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.10-23.58.56:926][602]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.10-23.58.58:439][626]LogEditorViewport: Clicking Background
+[2020.06.10-23.59.37:492][352]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.10-23.59.38:938][375]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.11-00.00.28:863][333]LogEditorViewport: Clicking Background
+[2020.06.11-00.00.56:825][917]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-00.00.56:897][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-00.00.56:898][917]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 16:00:56)
+[2020.06.11-00.00.56:898][917]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-00.00.56:902][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003807s)
+[2020.06.11-00.00.56:905][917]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-00.00.56:905][917]LogPlayLevel: PIE: World Init took: (0.003312s)
+[2020.06.11-00.00.56:905][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.007488s)
+[2020.06.11-00.00.57:001][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.06.11-00.00.57:051][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-00.00.57:051][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-00.00.57:051][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-00.00.57:051][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-00.00.57:052][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-00.00.57:052][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-00.00.57:052][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-00.00.57:052][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-00.00.57:052][917]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-00.00.57:052][917]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: Channel Order:
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-00.00.57:078][917]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-00.00.57:107][917]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.06.11-00.00.57:110][917]LogInit: FAudioDevice initialized.
+[2020.06.11-00.00.57:119][917]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-00.00.57:134][917]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-20.00.57
+[2020.06.11-00.00.57:134][917]LogWorld: Bringing up level for play took: 0.013385
+[2020.06.11-00.00.57:134][917]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.06.11-00.00.57:150][917]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,503
+[2020.06.11-00.01.17:534][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-00.01.17:534][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-00.01.17:535][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-00.01.17:535][330]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-00.01.17:535][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-00.01.17:535][330]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-00.01.17:539][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-00.01.17:671][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-00.01.17:681][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-00.01.17:737][330]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-00.01.17:745][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-00.01.17:751][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.06.11-00.01.17:975][331]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.06.11-00.01.34:002][578]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-00.01.41:296][578]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 121 classes and 0 folders.
+[2020.06.11-00.01.56:940][588]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.06.11-00.01.57:141][588]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2_Auto19DD982A54A41247E08CD30891C230C78.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/nivel2_Auto1.umap'
+[2020.06.11-00.01.57:145][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.296
+[2020.06.11-00.01.57:145][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2020.06.11-00.02.35:901][115]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-00.02.35:901][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-00.02.44:885][176]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2944B80574B401430BC74559748FE3CA8.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.11-00.02.44:917][176]AssetCheck: New page: Asset Save: mapa2
+[2020.06.11-00.02.44:917][176]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-00.02.47:466][203]LogSlate: Window 'mapa2' being destroyed
+[2020.06.11-00.02.47:593][203]LogSlate: Window 'mapa2' being destroyed
+[2020.06.11-00.02.47:674][203]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-00.02.47:674][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-00.02.52:500][291]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.11-00.03.05:121][488]LogSlate: Took 0.465414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.11-00.03.34:212][ 21]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-00.05.29:475][525]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-00.05.29:570][525]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-00.05.29:571][525]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-00.05.29:571][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-00.05.45:410][823]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2020.06.11-00.05.47:222][823]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.06.11-00.05.47:496][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.11-00.05.52:322][823]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2B063A63846783F0423667F95BD1D721C.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-00.05.52:409][823]LogFileHelpers: Saving map 'nivel2' took 4.961
+[2020.06.11-00.05.52:457][823]AssetCheck: New page: Asset Save: nivel2
+[2020.06.11-00.05.52:457][823]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
