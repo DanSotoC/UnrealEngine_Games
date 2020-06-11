@@ -2734,3 +2734,1598 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.11-01.38.30:622][233]LogSlate: Window 'mapa2*' being destroyed
 [2020.06.11-01.38.30:665][233]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
 [2020.06.11-01.38.30:665][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-01.46.46:669][120]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.06.11-01.46.46:685][120]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.075
+[2020.06.11-01.46.46:685][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/mapa2] ([1] browsable assets)...
+[2020.06.11-01.46.46:685][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/mapa2]
+[2020.06.11-01.46.51:242][120]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2_Auto52F4197314DFA6A910619C3A45965D8B1.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/mapa2_Auto5.uasset'
+[2020.06.11-01.46.51:245][120]LogFileHelpers: Auto-saving content packages took 4.560
+[2020.06.11-01.55.24:178][709]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-01.55.56:667][952]LogRenderer: Reallocating scene render targets to support 1048x684 Format 10 NumSamples 1 (Frame:1213).
+[2020.06.11-01.55.56:787][953]LogRenderer: Reallocating scene render targets to support 1092x684 Format 10 NumSamples 1 (Frame:1215).
+[2020.06.11-01.55.56:883][954]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:1217).
+[2020.06.11-01.55.56:975][955]LogRenderer: Reallocating scene render targets to support 1232x684 Format 10 NumSamples 1 (Frame:1219).
+[2020.06.11-01.55.57:106][958]LogRenderer: Reallocating scene render targets to support 1236x684 Format 10 NumSamples 1 (Frame:1221).
+[2020.06.11-01.55.57:180][959]LogRenderer: Reallocating scene render targets to support 1276x684 Format 10 NumSamples 1 (Frame:1223).
+[2020.06.11-01.55.57:250][960]LogRenderer: Reallocating scene render targets to support 1312x684 Format 10 NumSamples 1 (Frame:1225).
+[2020.06.11-01.57.50:651][  2]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2020.06.11-01.57.50:669][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.179
+[2020.06.11-01.57.50:672][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/mapa2] ([1] browsable assets)...
+[2020.06.11-01.57.50:672][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/mapa2]
+[2020.06.11-01.57.55:008][  2]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2_Auto674C203814303AA7BFEF9299DB02DB2D3.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/mapa2_Auto6.uasset'
+[2020.06.11-01.57.55:015][  2]LogFileHelpers: Auto-saving content packages took 4.343
+[2020.06.11-01.58.39:998][ 84]LogActorFactory: Actor Factory created Shape_Plane
+[2020.06.11-01.58.40:815][132]LogActorFactory: Actor Factory created Shape_Plane
+[2020.06.11-02.07.02:514][190]LogEditorViewport: Clicking Background
+[2020.06.11-02.07.03:393][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Plane)
+[2020.06.11-02.09.30:823][833]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Daniel Soto\Desktop\Inferno's revenge archivos\Mapas\Seccion Oculta 2.png)
+[2020.06.11-02.09.30:835][833]LogTexture: Display: Building textures: Seccion_Oculta_2 (BGRA8, 863X113)
+[2020.06.11-02.09.34:953][ 48]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.35:034][ 48]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.06.11-02.09.35:034][ 48]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.11-02.09.35:034][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.09.35:034][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.09.38:218][144]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.09.38:230][144]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.38:248][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.11-02.09.38:510][144]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.38:558][144]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.38:618][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.09.38:784][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.09.39:237][147]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.11-02.09.39:416][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.11-02.09.39:578][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.06.11-02.09.39:910][163]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.09.40:264][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.09.40:361][173]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.40:467][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.06.11-02.09.40:858][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.11-02.09.40:935][190]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.11-02.09.41:043][194]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.06.11-02.09.41:275][203]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.11-02.09.41:549][214]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.09.41:567][214]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.41:603][214]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.41:620][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.11-02.09.41:635][214]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.41:654][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.09.42:450][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.09.42:524][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.09.42:601][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.06.11-02.09.42:817][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.11-02.09.42:838][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.11-02.09.42:937][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.06.11-02.09.43:022][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.11-02.09.43:173][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.11-02.09.43:776][298]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.43:804][298]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.09.43:804][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.09.43:805][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.09.43:805][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.11-02.09.43:805][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.09.44:275][313]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.11-02.09.44:275][313]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.09.44:559][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.11-02.09.44:584][325]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.11-02.09.44:605][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.11-02.09.44:656][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.11-02.09.44:869][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.09.44:946][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.11-02.09.44:946][337]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.11-02.09.44:951][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.11-02.09.53:938][827]LogMaterialEditor: Saving and Compiling material Seccion_Oculta_2_Mat
+[2020.06.11-02.09.54:767][827]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.54:813][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.09.54:813][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.09.54:813][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.09.54:813][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.11-02.09.54:860][827]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.09.54:957][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.06.11-02.09.55:009][827]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.11-02.09.55:053][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.06.11-02.09.55:239][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.06.11-02.09.55:278][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.06.11-02.09.55:491][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.11-02.09.56:641][827]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.11-02.09.56:679][827]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Seccion_Oculta_2_MatC14C938741BAA3DFC7AA0A8DBB79EAC1.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.uasset'
+[2020.06.11-02.09.57:289][827]AssetCheck: New page: Asset Save: Seccion_Oculta_2_Mat
+[2020.06.11-02.09.57:289][827]LogContentValidation: Display: Validating Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.09.57:816][854]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.09.57:824][854]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.09.57:873][854]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.09.57:873][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.09.58:046][854]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.09.58:046][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.10.03:283][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.11-02.10.06:327][149]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.11-02.10.10:708][149]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2.Seccion_Oculta_2
+	Asset Name: /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.10.11:082][149]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.10.11:082][149]LogMaterial: Warning: /Engine/Transient.Seccion_Oculta_2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.10.11:083][149]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.10.11:083][149]LogMaterial: Warning: Seccion_Oculta_2_Mat: Requesting an invalid TextureIndex! (0 / 1)
+[2020.06.11-02.10.11:093][149]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.10.11:095][149]LogMaterial: Warning: /Engine/Transient.Seccion_Oculta_2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.10.11:095][149]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.10.11:106][149]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.10.11:107][149]LogMaterial: Warning: C:\Users\Daniel Soto\Desktop\Inferno's Revenge\UnrealEngine_Games\Unreal Proyect\MyProject\Content\Mapa\nivel2\Caminos_Ocultos\Seccion_Oculta_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.10.11:107][149]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.10.11:120][149]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.10.11:122][149]LogMaterial: Warning: C:\Users\Daniel Soto\Desktop\Inferno's Revenge\UnrealEngine_Games\Unreal Proyect\MyProject\Content\Mapa\nivel2\Caminos_Ocultos\Seccion_Oculta_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.10.11:122][149]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.10.12:302][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.06.11-02.10.12:357][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.06.11-02.10.12:397][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.06.11-02.10.13:140][149]SourceControl: Error: error: pathspec 'C:/Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.uasset' did not match any file(s) known to git
+[2020.06.11-02.10.13:608][149]SourceControl: Error: fatal: pathspec 'C:/Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.uasset' did not match any files
+[2020.06.11-02.10.13:613][149]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.06.11-02.10.15:907][277]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-02.10.16:808][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.11-02.10.17:189][288]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2_Auto723F4C854486BEA742C7A29ADAE064A73.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/nivel2_Auto7.umap'
+[2020.06.11-02.10.17:195][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.441
+[2020.06.11-02.10.17:195][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.441
+[2020.06.11-02.10.17:196][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/mapa2] ([1] browsable assets)...
+[2020.06.11-02.10.17:196][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/mapa2]
+[2020.06.11-02.10.21:015][288]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2_Auto78400CDC64BAD0F045FD895A55131C352.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/mapa2_Auto7.uasset'
+[2020.06.11-02.10.21:018][288]LogFileHelpers: Auto-saving content packages took 3.823
+[2020.06.11-02.11.11:576][ 20]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.11.11:590][ 20]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.11.11:644][ 20]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.11.11:644][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.11.18:010][247]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Daniel Soto\Desktop\Inferno's revenge archivos\Mapas\Seccion Oculta 2.png)
+[2020.06.11-02.11.18:017][247]LogTexture: Display: Building textures: Seccion_Oculta_2 (BGRA8, 931X103)
+[2020.06.11-02.11.25:505][514]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.11-02.11.25:766][514]LogUObjectHash: Compacting FUObjectHashTables data took   8.24ms
+[2020.06.11-02.11.26:097][514]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.26:168][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.06.11-02.11.26:168][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.11-02.11.26:168][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.11.26:168][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.11.27:590][574]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.11.27:605][574]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.27:783][574]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.27:827][574]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.27:885][574]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.11.28:835][591]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.11-02.11.29:049][595]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.29:545][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.11.29:926][626]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.11-02.11.30:062][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.11-02.11.30:328][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.06.11-02.11.30:375][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.11-02.11.30:665][654]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.30:716][654]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.30:731][654]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.11-02.11.30:731][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.11.30:739][654]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.30:974][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.11.31:359][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.11.31:455][684]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.11.31:529][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.11-02.11.31:757][696]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.11-02.11.31:814][698]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.11-02.11.31:942][703]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.11-02.11.32:050][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.11-02.11.32:191][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.11-02.11.32:390][719]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.11-02.11.32:390][719]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.11-02.11.32:391][719]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.11-02.11.32:391][719]MaterialEditorStats: Texture samplers: 1/16
+[2020.06.11-02.11.33:227][764]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.33:247][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.11.33:247][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.11.33:247][764]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.11.33:247][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.11-02.11.33:255][764]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.11.33:563][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.11-02.11.33:701][778]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.11.33:953][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.11-02.11.33:979][788]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.11-02.11.34:089][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.11-02.11.34:108][794]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.11-02.11.34:277][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.11-02.11.34:319][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.11-02.11.34:362][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.11-02.11.34:395][805]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.11-02.11.34:396][805]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.11-02.11.34:396][805]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.11-02.11.34:396][805]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.11-02.11.34:396][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.11-02.11.34:396][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.11-02.11.34:535][811]LogMaterialEditor: Saving and Compiling material Seccion_Oculta_2_Mat
+[2020.06.11-02.11.35:334][811]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.35:363][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.11-02.11.35:363][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.11.35:363][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.11.35:363][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.11-02.11.35:432][811]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.11.35:517][811]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.06.11-02.11.35:531][811]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.11-02.11.35:580][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.06.11-02.11.35:882][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.06.11-02.11.35:908][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.06.11-02.11.36:081][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.06.11-02.11.36:108][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.11-02.11.37:395][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.11-02.11.37:458][811]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Seccion_Oculta_2_MatCDC485DB461968B7B2D08BBE44DD807E.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.uasset'
+[2020.06.11-02.11.37:520][811]AssetCheck: New page: Asset Save: Seccion_Oculta_2_Mat
+[2020.06.11-02.11.37:520][811]LogContentValidation: Display: Validating Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.11.38:434][859]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.11.38:446][859]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.11.38:515][859]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.11.38:516][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.12.28:077][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.12.40:362][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.06.11-02.12.42:657][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.11-02.12.46:668][ 70]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+	Asset Name: /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2.Seccion_Oculta_2
+[2020.06.11-02.12.47:194][ 70]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.12.47:196][ 70]LogMaterial: Warning: /Engine/Transient.Seccion_Oculta_2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.12.47:197][ 70]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.12.47:204][ 70]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.12.47:206][ 70]LogMaterial: Warning: /Engine/Transient.Seccion_Oculta_2_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.12.47:206][ 70]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.12.47:214][ 70]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.12.47:215][ 70]LogMaterial: Warning: C:\Users\Daniel Soto\Desktop\Inferno's Revenge\UnrealEngine_Games\Unreal Proyect\MyProject\Content\Mapa\nivel2\Caminos_Ocultos\Seccion_Oculta_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.12.47:215][ 70]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.12.47:222][ 70]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.12.47:223][ 70]LogMaterial: Warning: C:\Users\Daniel Soto\Desktop\Inferno's Revenge\UnrealEngine_Games\Unreal Proyect\MyProject\Content\Mapa\nivel2\Caminos_Ocultos\Seccion_Oculta_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.11-02.12.47:223][ 70]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.11-02.12.48:536][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.06.11-02.12.48:578][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.06.11-02.12.48:617][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.06.11-02.12.57:947][519]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-02.14.14:046][623]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.14.14:058][623]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.14.14:107][623]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.14.14:107][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.14.17:449][684]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Daniel Soto\Desktop\Inferno's revenge archivos\Mapas\Seccion Oculta 2.png)
+[2020.06.11-02.14.17:457][684]LogTexture: Display: Building textures: Seccion_Oculta_2 (BGRA8, 976X93)
+[2020.06.11-02.14.21:072][806]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.21:168][807]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.06.11-02.14.21:168][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.11-02.14.21:168][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.14.21:168][807]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.14.23:459][894]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.14.23:472][894]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.23:658][894]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.23:706][894]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.23:753][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.14.24:595][909]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.11-02.14.24:904][915]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.25:870][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.14.25:943][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.11-02.14.25:963][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.11-02.14.26:441][967]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.26:490][967]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.26:516][967]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.27:755][ 11]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.11-02.14.27:755][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.11-02.14.27:755][ 11]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.11-02.14.27:755][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.11-02.14.27:991][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.11-02.14.28:568][ 37]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.11-02.14.28:568][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.11-02.14.28:599][ 38]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.06.11-02.14.28:617][ 39]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.11-02.14.29:245][ 71]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.29:267][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.11-02.14.29:785][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.14.29:791][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.06.11-02.14.29:791][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.11-02.14.29:791][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.11-02.14.30:273][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.11-02.14.30:273][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.11-02.14.30:439][113]LogMaterialEditor: Saving and Compiling material Seccion_Oculta_2_Mat
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.11-02.14.31:711][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.11-02.14.31:757][113]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.31:876][113]LogMaterial: Display: Missing cached shader map for material Seccion_Oculta_2_Mat, compiling. 
+[2020.06.11-02.14.31:964][113]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.06.11-02.14.31:972][113]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.11-02.14.32:011][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.06.11-02.14.32:398][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.06.11-02.14.32:398][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.11-02.14.34:436][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.06.11-02.14.34:482][113]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Seccion_Oculta_2_MatB0C8FA834E8AE7E11E05D48FA69764A1.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.uasset'
+[2020.06.11-02.14.35:180][113]AssetCheck: New page: Asset Save: Seccion_Oculta_2_Mat
+[2020.06.11-02.14.35:180][113]LogContentValidation: Display: Validating Material /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2_Mat.Seccion_Oculta_2_Mat
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.11-02.14.35:182][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.11-02.14.36:736][193]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.14.36:743][193]LogSlate: Window 'Seccion_Oculta_2_Mat' being destroyed
+[2020.06.11-02.14.36:791][193]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.14.36:791][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.15.47:595][981]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Oculto_2)
+[2020.06.11-02.15.48:290][ 19]LogEditorViewport: Clicking Background
+[2020.06.11-02.15.49:126][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.16.01:987][769]LogEditorViewport: Clicking Background
+[2020.06.11-02.16.02:667][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.16.05:236][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.16.40:527][ 48]LogEditorViewport: Clicking Background
+[2020.06.11-02.18.00:858][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.19.17:133][132]LogEditorViewport: Clicking Background
+[2020.06.11-02.19.22:678][462]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.11-02.19.25:703][640]LogEditorViewport: Clicking Background
+[2020.06.11-02.19.26:204][669]LogEditorViewport: Clicking Background
+[2020.06.11-02.19.26:907][711]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.11-02.19.29:694][873]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_2)
+[2020.06.11-02.19.33:900][ 94]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.19.59:510][360]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2020.06.11-02.21.14:716][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.21.37:561][390]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_2)
+[2020.06.11-02.21.57:052][431]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.21.57:584][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.06.11-02.21.58:926][496]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.21.58:944][496]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.21.58:945][496]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.21.58:945][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.22.07:005][952]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.22.07:043][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.22.07:043][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.22.07:043][952]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:22:07)
+[2020.06.11-02.22.07:044][952]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.22.07:049][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004967s)
+[2020.06.11-02.22.07:050][952]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.22.07:051][952]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2020.06.11-02.22.07:051][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.006836s)
+[2020.06.11-02.22.07:088][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.22.07:091][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.22.07:091][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.22.07:092][952]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.22.07:092][952]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.22.07:101][952]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.22.07:128][952]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.22.07:133][952]LogInit: FAudioDevice initialized.
+[2020.06.11-02.22.07:150][952]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.22.07:159][952]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.22.07
+[2020.06.11-02.22.07:159][952]LogWorld: Bringing up level for play took: 0.008245
+[2020.06.11-02.22.07:160][952]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.06.11-02.22.07:172][952]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,151
+[2020.06.11-02.22.07:173][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.22.09:410][ 79]Set new viewmode: Unlit
+[2020.06.11-02.22.38:819][840]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.22.38:841][840]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.11-02.22.38:861][840]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.11-02.22.38:862][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.22.38:863][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.22.38:863][840]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.22.38:863][840]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.22.38:863][840]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.22.38:867][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.22.38:880][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.22.38:880][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.22.38:886][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.22.38:926][840]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.22.38:937][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.22.38:943][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.06.11-02.22.38:960][841]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.06.11-02.22.41:117][967]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.22.41:157][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.22.41:157][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.22.41:158][967]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:22:41)
+[2020.06.11-02.22.41:158][967]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.22.41:163][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004909s)
+[2020.06.11-02.22.41:164][967]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.22.41:165][967]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2020.06.11-02.22.41:165][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.006732s)
+[2020.06.11-02.22.41:204][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.22.41:205][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.22.41:205][967]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.22.41:205][967]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.22.41:212][967]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.22.41:237][967]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.22.41:239][967]LogInit: FAudioDevice initialized.
+[2020.06.11-02.22.41:251][967]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.22.41:260][967]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.22.41
+[2020.06.11-02.22.41:260][967]LogWorld: Bringing up level for play took: 0.008168
+[2020.06.11-02.22.41:260][967]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.06.11-02.22.41:272][967]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,251
+[2020.06.11-02.22.41:273][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.23.13:797][909]Set new viewmode: Unlit
+[2020.06.11-02.23.16:283][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.23.16:283][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.23.16:283][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.23.16:283][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.23.16:284][ 57]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.23.16:284][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.23.16:284][ 57]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.23.16:287][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.23.16:296][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.23.16:297][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.23.16:306][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.23.16:345][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.23.16:352][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.23.16:357][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.06.11-02.23.16:392][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.06.11-02.23.18:214][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.23.25:888][608]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_2)
+[2020.06.11-02.23.30:183][852]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.23.52:918][ 71]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.23.53:279][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.06.11-02.23.57:410][291]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.23.57:756][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.06.11-02.23.58:833][351]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.23.58:840][351]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.23.58:841][351]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.23.58:841][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.24.00:206][390]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2020.06.11-02.24.00:568][390]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2FECD065F49B54E53E572B7B1021FBAF7.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-02.24.00:672][390]AssetCheck: New page: Asset Save: nivel2
+[2020.06.11-02.24.00:672][390]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.24.05:828][694]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.24.05:870][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.24.05:870][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.24.05:871][694]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:24:05)
+[2020.06.11-02.24.05:871][694]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.24.05:875][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2020.06.11-02.24.05:876][694]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.24.05:877][694]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2020.06.11-02.24.05:877][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.005694s)
+[2020.06.11-02.24.06:012][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.24.06:014][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.24.06:014][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.24.06:015][694]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.24.06:015][694]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.24.06:021][694]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.24.06:056][694]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.24.06:059][694]LogInit: FAudioDevice initialized.
+[2020.06.11-02.24.06:070][694]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.24.06:079][694]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.24.06
+[2020.06.11-02.24.06:079][694]LogWorld: Bringing up level for play took: 0.008147
+[2020.06.11-02.24.06:079][694]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.06.11-02.24.06:090][694]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 1,069
+[2020.06.11-02.24.06:090][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.24.34:091][365]Set new viewmode: Unlit
+[2020.06.11-02.24.37:774][586]Set new viewmode: Unlit
+[2020.06.11-02.24.38:992][659]Set new viewmode: Lit
+[2020.06.11-02.24.41:426][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.24.41:426][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.24.41:426][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.24.41:426][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.24.41:426][804]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.24.41:426][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.24.41:427][804]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.24.41:430][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.24.41:538][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.24.41:538][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.24.41:547][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.24.41:587][804]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.24.41:592][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.24.41:601][804]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2020.06.11-02.24.41:619][805]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.06.11-02.25.03:810][ 96]Cmd: DELETE
+[2020.06.11-02.25.03:810][ 96]Cmd: ACTOR DELETE
+[2020.06.11-02.25.04:836][ 96]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.11-02.25.04:844][ 96]LogEditorActor: Deleted Actor: BlockingVolume
+[2020.06.11-02.25.04:892][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.06.11-02.25.04:899][ 96]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2020.06.11-02.25.09:370][353]Cmd: DELETE
+[2020.06.11-02.25.09:370][353]Cmd: ACTOR DELETE
+[2020.06.11-02.25.09:372][353]LogEditorActor: Deleted Actor: TriggerBox
+[2020.06.11-02.25.09:419][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.06.11-02.25.09:421][353]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.06.11-02.25.18:324][874]Cmd: DELETE
+[2020.06.11-02.25.18:324][874]Cmd: ACTOR DELETE
+[2020.06.11-02.25.18:326][874]LogEditorActor: Deleted Actor: CameraBlockingVolume
+[2020.06.11-02.25.18:364][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.06.11-02.25.18:367][874]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.11-02.25.50:508][770]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.11-02.25.51:396][814]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.11-02.25.51:940][845]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.11-02.25.52:448][874]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.06.11-02.26.13:559][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.26.26:829][874]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.26.26:869][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.26.26:869][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.26.26:869][874]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:26:26)
+[2020.06.11-02.26.26:869][874]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.26.26:873][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003777s)
+[2020.06.11-02.26.26:874][874]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.26.26:874][874]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2020.06.11-02.26.26:875][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.005095s)
+[2020.06.11-02.26.26:919][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.26.26:927][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.26.26:927][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.26.26:928][874]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.26.26:928][874]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.26.26:936][874]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.26.26:959][874]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.26.26:962][874]LogInit: FAudioDevice initialized.
+[2020.06.11-02.26.26:979][874]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.26.26:990][874]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.26.26
+[2020.06.11-02.26.26:990][874]LogWorld: Bringing up level for play took: 0.010205
+[2020.06.11-02.26.26:990][874]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.06.11-02.26.27:004][874]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,017
+[2020.06.11-02.26.27:004][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.26.29:255][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.26.29:255][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.26.29:255][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.26.29:255][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.26.29:255][  6]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.26.29:255][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.26.29:255][  6]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.26.29:257][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.26.29:275][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.26.29:276][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.26.29:282][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.26.29:325][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.26.29:330][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.26.29:337][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.06.11-02.26.29:374][  8]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.06.11-02.26.41:274][698]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2020.06.11-02.26.56:475][559]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.27.34:421][534]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.27.34:794][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.06.11-02.27.35:945][596]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.27.35:959][596]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.27.35:960][596]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.27.35:960][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.27.37:992][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.06.11-02.27.38:341][678]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel238EFE6EB4918590C693D63A4A596BAA4.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-02.27.38:442][678]AssetCheck: New page: Asset Save: nivel2
+[2020.06.11-02.27.38:442][678]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.27.39:590][742]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.27.39:634][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.27.39:634][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.27.39:635][742]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:27:39)
+[2020.06.11-02.27.39:635][742]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.27.39:640][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004778s)
+[2020.06.11-02.27.39:641][742]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.27.39:641][742]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2020.06.11-02.27.39:641][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.006165s)
+[2020.06.11-02.27.39:686][742]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.27.39:688][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.27.39:688][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.27.39:689][742]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.27.39:689][742]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.27.39:697][742]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.27.39:698][742]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.27.39:723][742]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.27.39:726][742]LogInit: FAudioDevice initialized.
+[2020.06.11-02.27.39:738][742]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.27.39:747][742]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.27.39
+[2020.06.11-02.27.39:748][742]LogWorld: Bringing up level for play took: 0.008848
+[2020.06.11-02.27.39:748][742]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.06.11-02.27.39:762][742]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,741
+[2020.06.11-02.27.39:763][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.27.43:947][990]Set new viewmode: Unlit
+[2020.06.11-02.28.25:344][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.28.25:344][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.28.25:344][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.28.25:344][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.28.25:344][463]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.28.25:344][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.28.25:344][463]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.28.25:347][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.28.25:357][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.28.25:357][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.28.25:365][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.28.25:403][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.28.25:409][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.28.25:414][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.06.11-02.28.25:506][465]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.06.11-02.28.34:032][969]LogEditorViewport: Clicking Background
+[2020.06.11-02.28.34:588][  1]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_2)
+[2020.06.11-02.29.02:799][515]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.29.33:167][ 18]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.29.33:522][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.06.11-02.29.53:132][104]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.29.53:491][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.06.11-02.29.54:603][160]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.29.54:615][160]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.29.54:616][160]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.29.54:616][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.29.56:103][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.29.56:240][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.29.56:240][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.29.56:240][233]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:29:56)
+[2020.06.11-02.29.56:284][233]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.29.56:288][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004182s)
+[2020.06.11-02.29.56:289][233]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.29.56:290][233]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2020.06.11-02.29.56:290][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.005970s)
+[2020.06.11-02.29.56:340][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.29.56:342][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.29.56:342][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.29.56:343][233]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.29.56:343][233]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.29.56:349][233]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.29.56:350][233]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.29.56:350][233]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.29.56:350][233]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.29.56:380][233]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.29.56:382][233]LogInit: FAudioDevice initialized.
+[2020.06.11-02.29.56:390][233]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.29.56:401][233]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.29.56
+[2020.06.11-02.29.56:401][233]LogWorld: Bringing up level for play took: 0.009821
+[2020.06.11-02.29.56:402][233]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.06.11-02.29.56:412][233]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,609
+[2020.06.11-02.29.56:412][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.30.33:294][427]LogScript: Warning: Attempted to access Block_12 via property Block_12_ExecuteUbergraph_nivel2_RefProperty, but Block_12 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_24
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:0078
+[2020.06.11-02.30.33:302][427]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_12 via property Block_12_ExecuteUbergraph_nivel2_RefProperty, but Block_12 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.30.33:302][427]LogScript: Warning: Attempted to access Oculto_2 via property Oculto_2_ExecuteUbergraph_nivel2_RefProperty, but Oculto_2 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_24
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00AF
+[2020.06.11-02.30.33:302][427]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_2 via property Oculto_2_ExecuteUbergraph_nivel2_RefProperty, but Oculto_2 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.30.37:842][699]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.30.37:842][699]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.30.37:842][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.30.37:843][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.30.37:843][699]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.30.37:843][699]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.30.37:843][699]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.30.37:846][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.30.37:859][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.30.37:860][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.30.37:869][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.30.37:913][699]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.30.37:919][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.30.37:924][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.06.11-02.30.38:088][700]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.06.11-02.30.39:423][770]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.30.39:434][770]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.30.47:420][225]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_1.2)
+[2020.06.11-02.30.54:085][618]LogEditorViewport: Clicking Background
+[2020.06.11-02.30.56:210][737]LogEditorViewport: Clicking Background
+[2020.06.11-02.30.56:697][765]LogEditorViewport: Clicking Background
+[2020.06.11-02.30.57:108][788]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Block_1.2)
+[2020.06.11-02.30.58:083][843]LogEditorViewport: Clicking Background
+[2020.06.11-02.31.15:370][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.31.15:406][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.31.15:406][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.31.15:406][844]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:31:15)
+[2020.06.11-02.31.15:549][844]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.31.15:553][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003884s)
+[2020.06.11-02.31.15:554][844]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.31.15:554][844]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2020.06.11-02.31.15:554][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.005337s)
+[2020.06.11-02.31.15:606][844]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.06.11-02.31.15:720][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.31.15:720][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.31.15:721][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.31.15:721][844]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.31.15:721][844]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.31.15:727][844]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.31.15:756][844]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.31.15:759][844]LogInit: FAudioDevice initialized.
+[2020.06.11-02.31.15:772][844]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.31.15:785][844]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.31.15
+[2020.06.11-02.31.15:785][844]LogWorld: Bringing up level for play took: 0.012488
+[2020.06.11-02.31.15:785][844]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.06.11-02.31.15:801][844]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,779
+[2020.06.11-02.31.15:801][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.31.32:704][852]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.31.32:712][852]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.11-02.31.32:741][852]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.11-02.31.32:741][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.31.32:741][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.31.32:741][852]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.31.32:742][852]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.31.32:742][852]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.31.32:744][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.31.32:757][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.31.32:758][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.31.32:766][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.31.32:804][852]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.31.32:810][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.31.32:814][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.06.11-02.31.32:834][853]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.06.11-02.31.33:500][889]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.31.33:538][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.31.33:539][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.31.33:539][889]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:31:33)
+[2020.06.11-02.31.33:644][889]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.31.33:655][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010878s)
+[2020.06.11-02.31.33:656][889]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.31.33:657][889]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2020.06.11-02.31.33:657][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.012426s)
+[2020.06.11-02.31.33:707][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.31.33:707][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.31.33:707][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.31.33:708][889]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.31.33:708][889]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.31.33:714][889]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.31.33:741][889]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.31.33:743][889]LogInit: FAudioDevice initialized.
+[2020.06.11-02.31.33:760][889]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.31.33:773][889]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.31.33
+[2020.06.11-02.31.33:774][889]LogWorld: Bringing up level for play took: 0.011747
+[2020.06.11-02.31.33:774][889]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.06.11-02.31.33:786][889]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,764
+[2020.06.11-02.31.33:786][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.33.37:040][266]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.33.37:040][266]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.33.37:040][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.33.37:040][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.33.37:040][266]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.33.37:040][266]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.33.37:041][266]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.33.37:043][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.33.37:058][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.33.37:059][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.33.37:071][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.33.37:108][266]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.33.37:113][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.33.37:117][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.11-02.33.37:152][268]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.06.11-02.34.15:415][473]LogEditorViewport: Clicking Background
+[2020.06.11-02.34.17:779][603]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.34.42:674][945]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.34.42:681][945]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.34.42:682][945]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.34.42:682][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.34.44:192][ 24]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (mp_oculto2)
+[2020.06.11-02.34.47:725][220]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.35.05:346][179]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.35.05:701][179]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2020.06.11-02.35.08:555][337]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.35.08:569][337]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.35.08:569][337]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.35.08:570][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.35.09:787][399]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.35.09:849][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.35.09:849][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.35.09:849][399]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:35:09)
+[2020.06.11-02.35.09:849][399]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.35.09:853][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003528s)
+[2020.06.11-02.35.09:855][399]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.35.09:855][399]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2020.06.11-02.35.09:855][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.004748s)
+[2020.06.11-02.35.09:901][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.35.09:904][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.35.09:904][399]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.35.09:904][399]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.35.09:911][399]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.35.09:935][399]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.35.09:939][399]LogInit: FAudioDevice initialized.
+[2020.06.11-02.35.09:949][399]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.35.09:962][399]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.35.09
+[2020.06.11-02.35.09:962][399]LogWorld: Bringing up level for play took: 0.012026
+[2020.06.11-02.35.09:963][399]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.06.11-02.35.09:974][399]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,953
+[2020.06.11-02.35.09:975][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.35.24:297][250]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_25
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00EA
+[2020.06.11-02.35.24:297][250]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.35.24:297][250]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_25
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00C3
+[2020.06.11-02.35.24:298][250]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.35.36:279][969]Set new viewmode: Unlit
+[2020.06.11-02.35.38:102][ 78]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.35.38:102][ 78]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.35.38:102][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.35.38:103][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.35.38:103][ 78]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.35.38:103][ 78]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.35.38:103][ 78]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.35.38:105][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.35.38:116][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.35.38:116][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.35.38:122][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.35.38:160][ 78]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.35.38:166][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.35.38:172][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.06.11-02.35.38:317][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.06.11-02.35.39:302][125]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.35.39:312][125]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.35.46:385][515]Cmd: DELETE
+[2020.06.11-02.35.46:385][515]Cmd: ACTOR DELETE
+[2020.06.11-02.35.47:725][515]LogSlate: Window 'Mensaje' being destroyed
+[2020.06.11-02.35.47:740][515]LogEditorActor: Deleted Actor: BlockingVolume
+[2020.06.11-02.35.47:792][515]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.06.11-02.35.47:795][515]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.06.11-02.35.48:801][574]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (mp_oculto2)
+[2020.06.11-02.36.03:301][422]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.06.11-02.36.04:403][472]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (mp_oculto2)
+[2020.06.11-02.36.25:068][681]LogEditorViewport: Clicking Background
+[2020.06.11-02.36.29:474][935]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.36.47:700][951]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.36.48:048][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.06.11-02.36.51:498][152]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.36.51:506][152]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.36.51:507][152]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.36.51:507][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.36.52:482][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.06.11-02.36.52:877][182]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel20DB4A8704D7239E50CA6BE9A7BAB1454.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-02.36.52:982][182]AssetCheck: New page: Asset Save: nivel2
+[2020.06.11-02.36.52:982][182]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.36.54:100][248]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.36.54:138][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.36.54:139][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.36.54:139][248]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:36:54)
+[2020.06.11-02.36.54:262][248]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.36.54:266][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003888s)
+[2020.06.11-02.36.54:267][248]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.36.54:268][248]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2020.06.11-02.36.54:268][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.005799s)
+[2020.06.11-02.36.54:316][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.36.54:317][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.36.54:317][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.36.54:318][248]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.36.54:318][248]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.36.54:327][248]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.36.54:355][248]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.36.54:358][248]LogInit: FAudioDevice initialized.
+[2020.06.11-02.36.54:374][248]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.36.54:384][248]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.36.54
+[2020.06.11-02.36.54:385][248]LogWorld: Bringing up level for play took: 0.009873
+[2020.06.11-02.36.54:385][248]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.06.11-02.36.54:397][248]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,624
+[2020.06.11-02.36.54:398][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.37.12:549][333]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00B5
+[2020.06.11-02.37.12:550][333]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.12:550][333]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:008E
+[2020.06.11-02.37.12:550][333]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.16:034][542]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00B5
+[2020.06.11-02.37.16:034][542]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.16:034][542]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:008E
+[2020.06.11-02.37.16:034][542]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.17:433][626]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00B5
+[2020.06.11-02.37.17:434][626]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.17:434][626]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:008E
+[2020.06.11-02.37.17:434][626]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.19:449][747]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00B5
+[2020.06.11-02.37.19:449][747]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.19:449][747]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:008E
+[2020.06.11-02.37.19:449][747]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.37.30:097][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.37.30:111][383]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.11-02.37.30:132][383]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.11-02.37.30:132][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.37.30:132][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.37.30:132][383]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.37.30:132][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.37.30:133][383]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.37.30:135][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.37.30:149][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.37.30:149][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.37.30:156][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.37.30:200][383]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.37.30:207][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.37.30:212][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.06.11-02.37.30:373][384]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.06.11-02.37.31:987][454]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.37.31:994][454]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.37.33:094][519]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.37.33:129][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.37.33:129][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.37.33:129][519]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:37:33)
+[2020.06.11-02.37.33:256][519]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.37.33:260][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004174s)
+[2020.06.11-02.37.33:262][519]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.37.33:262][519]LogPlayLevel: PIE: World Init took: (0.002438s)
+[2020.06.11-02.37.33:263][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.007005s)
+[2020.06.11-02.37.33:310][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.06.11-02.37.33:310][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.37.33:311][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.37.33:311][519]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.37.33:311][519]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.37.33:318][519]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.37.33:346][519]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.37.33:348][519]LogInit: FAudioDevice initialized.
+[2020.06.11-02.37.33:363][519]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.37.33:372][519]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.37.33
+[2020.06.11-02.37.33:372][519]LogWorld: Bringing up level for play took: 0.009121
+[2020.06.11-02.37.33:373][519]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.06.11-02.37.33:383][519]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,362
+[2020.06.11-02.37.33:383][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.37.56:160][864]LogScript: Warning: Attempted to access Oculto_2 via property Oculto_2_ExecuteUbergraph_nivel2_RefProperty, but Oculto_2 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:0057
+[2020.06.11-02.37.56:160][864]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_2 via property Oculto_2_ExecuteUbergraph_nivel2_RefProperty, but Oculto_2 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.38.07:584][549]Set new viewmode: Unlit
+[2020.06.11-02.38.10:130][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.38.10:130][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.38.10:130][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.38.10:131][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.38.10:131][701]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.38.10:131][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.38.10:131][701]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.38.10:135][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.38.10:146][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.38.10:146][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.38.10:152][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.38.10:186][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.38.10:190][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.38.10:196][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.06.11-02.38.10:315][702]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.06.11-02.38.11:680][770]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.38.11:688][770]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.38.13:291][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Oculto_2)
+[2020.06.11-02.38.40:945][485]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.11-02.38.40:983][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.38.40:983][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.11-02.38.40:983][485]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (10-06-2020 18:38:40)
+[2020.06.11-02.38.41:077][485]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.38.41:080][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002884s)
+[2020.06.11-02.38.41:080][485]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.38.41:081][485]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.06.11-02.38.41:081][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.004255s)
+[2020.06.11-02.38.41:133][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.11-02.38.41:141][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.11-02.38.41:141][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.11-02.38.41:142][485]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.11-02.38.41:142][485]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Is Default: Yes
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: Channel Order:
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.11-02.38.41:148][485]LogAudioMixer: Display: 1: FrontRight
+[2020.06.11-02.38.41:176][485]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.11-02.38.41:178][485]LogInit: FAudioDevice initialized.
+[2020.06.11-02.38.41:188][485]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.06.11-02.38.41:199][485]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.06.10-22.38.41
+[2020.06.11-02.38.41:199][485]LogWorld: Bringing up level for play took: 0.010585
+[2020.06.11-02.38.41:200][485]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.06.11-02.38.41:211][485]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,189
+[2020.06.11-02.38.41:211][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.38.52:541][162]LogScript: Warning: Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:00B5
+[2020.06.11-02.38.52:541][162]PIE: Error: Blueprint Runtime Error: "Attempted to access Oculto_1 via property Oculto_1_ExecuteUbergraph_nivel2_RefProperty, but Oculto_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.38.52:541][162]LogScript: Warning: Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill
+	nivel2_C /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2:PersistentLevel.nivel2_C_27
+	Function /Game/Mapa/nivel2/nivel2.nivel2_C:ExecuteUbergraph_nivel2:008E
+[2020.06.11-02.38.52:541][162]PIE: Error: Blueprint Runtime Error: "Attempted to access Block_1 via property Block_1_ExecuteUbergraph_nivel2_RefProperty, but Block_1 is pending kill". Blueprint:  nivel2 Function:  Execute Ubergraph Nivel 2 Graph:  EventGraph Node:  DestroyActor
+[2020.06.11-02.39.10:124][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.39.10:124][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.39.10:124][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.39.10:124][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.39.10:124][212]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.06.11-02.39.10:124][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.39.10:124][212]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.39.10:126][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.39.10:141][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.11-02.39.10:142][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.06.11-02.39.10:147][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.39.10:188][212]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.39.10:192][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.11-02.39.10:198][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.06.11-02.39.10:325][213]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.06.11-02.39.11:767][283]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.39.11:778][283]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.06.11-02.39.18:175][652]LogEditorViewport: Clicking Background
+[2020.06.11-02.39.40:102][924]Cmd: TRANSACTION UNDO
+[2020.06.11-02.39.40:102][924]LogEditorTransaction: Undo Move Actors
+[2020.06.11-02.39.52:593][609]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-02.40.18:925][568]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.40.18:935][568]LogSlate: Window 'mapa2*' being destroyed
+[2020.06.11-02.40.18:985][568]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.40.18:985][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.40.39:010][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.40.39:055][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.06.11-02.40.40:847][750]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.06.11-02.40.41:607][750]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Seccion_Oculta_1BF7E57314716EA6299BD9BAB1089E80F.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_1.uasset'
+[2020.06.11-02.40.42:390][750]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Seccion_Oculta_24A3EBBD44ACDF7D9D27BEE87EBF1D1E0.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2.uasset'
+[2020.06.11-02.40.46:846][750]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2B404FD8D4C2087C520F4BEBEE766F51B.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.06.11-02.40.46:902][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.06.11-02.40.47:370][750]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2C307722247E153C6FF032CBECE286E32.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-02.40.47:450][750]LogFileHelpers: Saving map 'nivel2' took 0.596
+[2020.06.11-02.40.47:618][750]Cmd: MAP LOAD FILE="../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.11-02.40.47:620][750]LightingResults: New page: Diseñar la iluminación
+[2020.06.11-02.40.47:643][750]LoadErrors: New page: Cargando mapa: nivel2.umap
+[2020.06.11-02.40.47:662][750]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.40.47:662][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.40.47:663][750]MapCheck: New page: Revisión del mapa
+[2020.06.11-02.40.47:663][750]LightingResults: New page: Diseñar la iluminación
+[2020.06.11-02.40.47:990][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.06.11-02.40.48:254][750]LogAIModule: Creating AISystem for world nivel2
+[2020.06.11-02.40.48:635][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.11-02.40.48:689][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.06.11-02.40.48:760][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.11-02.40.48:762][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,884ms to complete.
+[2020.06.11-02.40.48:762][750]LogFileHelpers: Loading map 'nivel2' took 1.312
+[2020.06.11-02.40.48:887][750]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.11-02.40.48:887][750]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_1.Seccion_Oculta_1
+[2020.06.11-02.40.48:887][750]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/Caminos_Ocultos/Seccion_Oculta_2.Seccion_Oculta_2
+[2020.06.11-02.40.48:887][750]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.06.11-02.40.48:887][750]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.40.49:686][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.06.11-02.44.14:745][882]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (mp_oculto2)
+[2020.06.11-02.46.02:717][165]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2
+[2020.06.11-02.46.41:163][197]BlueprintLog: New page: Compilar nivel2
+[2020.06.11-02.46.41:518][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.06.11-02.46.43:217][285]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.46.43:227][285]LogSlate: Window 'nivel2' being destroyed
+[2020.06.11-02.46.43:228][285]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.46.43:228][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.11-02.46.45:552][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.06.11-02.46.45:888][385]LogSavePackage: Moving '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2F0ED3C3642087598D8356D89956BB953.tmp' to '../../../../../../Users/Daniel Soto/Desktop/Inferno's Revenge/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.06.11-02.46.46:002][385]AssetCheck: New page: Asset Save: nivel2
+[2020.06.11-02.46.46:002][385]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.06.11-02.46.47:494][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.06.11-02.46.47:725][465]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.06.11-02.46.47:726][465]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.11-02.46.49:915][466]Cmd: QUIT_EDITOR
+[2020.06.11-02.46.49:915][466]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.11-02.46.49:954][466]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.11-02.46.49:955][466]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.11-02.46.51:484][466]LogExit: Preparing to exit.
+[2020.06.11-02.46.53:370][466]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.46.53:376][466]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.46.53:686][466]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.11-02.46.53:905][466]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.11-02.46.53:905][466]LogExit: Editor shut down
+[2020.06.11-02.46.53:907][466]LogExit: Transaction tracking system shut down
+[2020.06.11-02.46.58:133][466]LogExit: Object subsystem successfully closed.
+[2020.06.11-02.46.58:467][466]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.11-02.46.58:620][466]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (704)
+[2020.06.11-02.46.58:620][466]LogModuleManager: Shutting down and abandoning module Voice (702)
+[2020.06.11-02.46.58:620][466]LogModuleManager: Shutting down and abandoning module BlueprintGraph (700)
+[2020.06.11-02.46.58:635][466]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (698)
+[2020.06.11-02.46.58:635][466]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.06.11-02.46.58:635][466]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.06.11-02.46.58:635][466]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.06.11-02.46.58:673][466]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.06.11-02.46.58:674][466]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.06.11-02.46.58:719][466]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.06.11-02.46.58:720][466]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.06.11-02.46.58:721][466]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.06.11-02.46.58:773][466]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.06.11-02.46.58:773][466]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.06.11-02.46.58:773][466]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.06.11-02.46.58:775][466]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.06.11-02.46.58:775][466]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.06.11-02.47.00:075][466]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.06.11-02.47.00:076][466]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.06.11-02.47.00:076][466]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.06.11-02.47.00:076][466]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.06.11-02.47.00:076][466]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.06.11-02.47.00:719][466]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.06.11-02.47.00:829][466]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.06.11-02.47.00:829][466]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.06.11-02.47.00:829][466]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.06.11-02.47.00:830][466]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.06.11-02.47.00:830][466]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.06.11-02.47.00:830][466]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.06.11-02.47.00:830][466]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.06.11-02.47.00:869][466]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.06.11-02.47.00:870][466]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.06.11-02.47.00:870][466]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.06.11-02.47.00:870][466]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.06.11-02.47.01:580][466]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.06.11-02.47.01:957][466]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.06.11-02.47.01:957][466]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.06.11-02.47.02:107][466]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.06.11-02.47.02:114][466]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.06.11-02.47.02:298][466]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.06.11-02.47.02:298][466]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.06.11-02.47.02:298][466]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.06.11-02.47.02:299][466]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.06.11-02.47.02:300][466]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.06.11-02.47.02:301][466]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.06.11-02.47.02:402][466]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.06.11-02.47.02:503][466]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.06.11-02.47.02:503][466]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.06.11-02.47.02:504][466]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.06.11-02.47.02:516][466]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.06.11-02.47.02:531][466]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.06.11-02.47.02:531][466]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.06.11-02.47.02:531][466]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.06.11-02.47.02:531][466]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.06.11-02.47.02:531][466]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.06.11-02.47.02:535][466]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.06.11-02.47.02:535][466]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.06.11-02.47.02:535][466]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.06.11-02.47.02:535][466]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.06.11-02.47.02:535][466]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.06.11-02.47.02:569][466]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.06.11-02.47.02:570][466]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.06.11-02.47.02:571][466]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.06.11-02.47.02:653][466]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.06.11-02.47.02:654][466]LogDerivedDataCache: Shutdown
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.06.11-02.47.02:654][466]LogXGEController: Cleaning working directory: C:/Users/Daniel Soto/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.11-02.47.02:654][466]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.06.11-02.47.02:655][466]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.06.11-02.47.02:656][466]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.06.11-02.47.02:656][466]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.06.11-02.47.02:656][466]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.06.11-02.47.02:656][466]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.06.11-02.47.02:915][466]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.06.11-02.47.02:955][466]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.06.11-02.47.02:961][466]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.06.11-02.47.03:183][466]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.06.11-02.47.03:183][466]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.06.11-02.47.03:183][466]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.06.11-02.47.03:183][466]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.06.11-02.47.03:184][466]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.06.11-02.47.03:184][466]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.06.11-02.47.03:186][466]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.06.11-02.47.03:186][466]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.06.11-02.47.03:215][466]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.06.11-02.47.03:215][466]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.11-02.47.03:215][466]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F27F0C5-44D6-4D5F-EC3C-7983610817EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2e192b8746adc2629aa0e9b7ad7aa21a%7C30373c7d2a7543e3a9befcd09211970e%7C2ef316fb-d016-4470-b176-5659d828d165&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.06.11-02.47.03:226][466]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.06.11-02.47.03:230][466]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.06.11-02.47.03:234][466]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.06.11-02.47.03:237][466]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.06.11-02.47.03:237][466]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.06.11-02.47.03:237][466]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.06.11-02.47.03:238][466]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.06.11-02.47.03:238][466]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.06.11-02.47.03:238][466]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.06.11-02.47.03:238][466]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.06.11-02.47.03:238][466]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.11-02.47.03:239][466]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.11-02.47.03:239][466]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.11-02.47.03:243][466]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.11-02.47.03:256][466]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.11-02.47.03:256][466]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.11-02.47.03:256][466]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.11-02.47.03:256][466]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.11-02.47.03:314][466]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.11-02.47.03:315][466]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.11-02.47.03:342][466]LogD3D11RHI: Shutdown
+[2020.06.11-02.47.03:342][466]LogD3D11RHI: CleanupD3DDevice
+[2020.06.11-02.47.03:390][466]LogExit: Exiting.
+[2020.06.11-02.47.03:502][466]Log file closed, 06/10/20 22:47:03
