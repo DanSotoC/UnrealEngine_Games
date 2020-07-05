@@ -2522,3 +2522,1021 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.05-20.35.05:027][981]MaterialEditorStats: Texture samplers: 5/16
 [2020.07.05-20.35.05:027][981]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
 [2020.07.05-20.35.05:027][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.31.08:630][976]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.08:672][976]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.08:672][976]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.08:672][976]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.31.08:672][976]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.08:679][976]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.08:710][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.31.08:811][977]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.07.05-21.31.10:552][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.05-21.31.11:206][ 52]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.31.11:271][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.05-21.31.11:271][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.07.05-21.31.11:906][ 72]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.05-21.31.12:004][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.05-21.31.12:337][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.05-21.31.12:410][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.05-21.31.12:632][ 94]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.31.13:051][105]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.13:149][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.07.05-21.31.13:180][107]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.31.13:213][108]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.07.05-21.31.13:303][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.07.05-21.31.13:900][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.05-21.31.13:936][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.05-21.31.14:028][132]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.05-21.31.14:056][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.05-21.31.14:530][136]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.14:881][146]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.05-21.31.14:980][147]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.05-21.31.15:085][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.05-21.31.15:505][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.31.15:716][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.31.15:965][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.31.16:159][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.05-21.31.16:232][182]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.31.16:232][182]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.31.16:232][182]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.31.16:232][182]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.31.16:232][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.31.16:233][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.31.22:325][427]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.22:349][427]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.22:377][427]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.22:377][427]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.22:377][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.31.22:377][427]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.22:377][427]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.31.23:027][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.31.23:427][455]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.31.23:567][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.31.23:601][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.23:738][464]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.23:946][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.05-21.31.24:600][488]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.05-21.31.24:813][494]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.05-21.31.24:946][498]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.05-21.31.24:980][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.05-21.31.25:368][509]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.05-21.31.25:401][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.05-21.31.25:595][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.05-21.31.26:042][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.31.26:079][527]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.31.26:527][539]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.07.05-21.31.26:694][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.05-21.31.26:724][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.05-21.31.27:608][569]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.31.27:609][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.31.27:609][569]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.31.27:609][569]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.31.27:609][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.31.27:609][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.31.27:897][578]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.27:947][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.27:947][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.27:947][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.31.27:947][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.27:956][578]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.28:007][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.31.28:133][579]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.07.05-21.31.28:546][587]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.05-21.31.29:011][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.31.29:077][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.07.05-21.31.29:167][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.07.05-21.31.29:492][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.05-21.31.29:767][627]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.30:350][641]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.07.05-21.31.30:777][653]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.07.05-21.31.30:867][654]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.07.05-21.31.30:867][654]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.07.05-21.31.31:153][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.05-21.31.31:506][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.05-21.31.31:544][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.05-21.31.31:615][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.05-21.31.32:168][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.31.32:273][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.05-21.31.32:749][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.05-21.31.32:855][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.07.05-21.31.32:981][710]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.31.33:487][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.05-21.31.33:660][729]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.31.33:893][736]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.31.33:998][739]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.31.43:765][121]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.43:833][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.43:833][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.43:833][121]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.31.43:833][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.43:843][121]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.43:876][121]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.31.43:992][122]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.07.05-21.31.44:372][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.05-21.31.44:774][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.31.44:876][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.05-21.31.44:908][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.05-21.31.45:523][163]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.05-21.31.45:683][168]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.07.05-21.31.45:942][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.05-21.31.46:064][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.05-21.31.46:369][188]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.31.46:801][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.46:975][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.05-21.31.47:044][207]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.05-21.31.47:104][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.31.47:151][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.31.47:802][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.05-21.31.47:871][228]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.05-21.31.47:938][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.05-21.31.57:876][624]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.58:070][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.31.58:070][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.31.58:070][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.31.58:070][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.31.58:080][624]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.31.58:115][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.31.58:233][625]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.07.05-21.31.58:533][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.05-21.31.58:855][640]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.31.58:990][644]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.05-21.31.59:022][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.05-21.31.59:682][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.05-21.31.59:728][665]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.07.05-21.32.00:018][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.05-21.32.00:088][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.05-21.32.00:396][684]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.05-21.32.00:935][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.07.05-21.32.01:009][700]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.07.05-21.32.01:009][700]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.01:114][701]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.05-21.32.01:114][701]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.05-21.32.01:676][716]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.07.05-21.32.01:740][718]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.07.05-21.32.01:806][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.05-21.32.01:882][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.05-21.32.02:494][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.32.02:860][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.32.02:973][751]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.05-21.32.03:073][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.05-21.32.03:578][768]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.05-21.32.03:783][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.05-21.32.04:009][780]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.32.04:125][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.32.04:301][788]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.32.13:269][139]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.13:288][139]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.13:314][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.32.13:315][139]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.32.13:315][139]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.32.13:315][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.32.13:315][139]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.32.13:957][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.32.14:362][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.32.14:473][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.32.14:548][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.32.14:995][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.05-21.32.15:189][190]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.05-21.32.15:427][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.32.15:559][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.32.15:650][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.32.15:690][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.32.16:133][216]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.16:155][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.32.16:219][217]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.32.16:219][217]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.05-21.32.16:248][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.05-21.32.16:895][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.32.17:294][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.05-21.32.17:368][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.32.17:399][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.05-21.32.17:952][262]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.32.19:632][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.32.25:322][326]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.25:351][326]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.32.25:351][326]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.32.25:351][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.32.25:351][326]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.32.25:364][326]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.32.26:376][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.32.27:084][363]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.32.27:213][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.32.27:213][366]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.32.28:219][388]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.28:491][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.07.05-21.32.29:275][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.07.05-21.32.29:396][414]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.05-21.32.29:892][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.07.05-21.32.30:192][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.32.30:638][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.05-21.32.30:824][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.32.31:097][457]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.05-21.32.31:983][477]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.05-21.32.32:065][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.32.32:625][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.05-21.32.33:241][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.05-21.32.33:292][508]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.32.35:279][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.32.45:404][600]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.07.05-21.32.45:437][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.05-21.32.45:437][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.05-21.32.45:437][600]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.45:642][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.32.45:642][601]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.07.05-21.32.47:387][635]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.32.47:722][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.05-21.32.48:126][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.32.48:206][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.05-21.32.49:067][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.32.49:490][669]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.32.50:148][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.32.51:395][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.32.56:050][818]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.32.56:194][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.32.56:194][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.32.56:194][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.32.56:194][819]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.32.57:302][838]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.32.58:183][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.32.58:311][853]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.05-21.32.58:377][854]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.05-21.32.59:515][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.33.00:634][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.33.02:008][911]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.02:042][911]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.02:157][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.33.02:157][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.33.02:157][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.33.02:158][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.33.03:344][932]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.33.04:030][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.07.05-21.33.04:103][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.05-21.33.04:121][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.33.05:181][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.07.05-21.33.06:144][971]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.33.06:144][971]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.33.06:144][971]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.33.06:145][971]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.33.06:145][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.33.06:145][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.33.19:179][245]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.19:222][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.33.19:222][245]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.33.19:222][245]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.33.19:222][245]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.33.19:239][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.05-21.33.20:351][263]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.33.21:143][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.33.21:208][276]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.07.05-21.33.21:263][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.33.22:422][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.07.05-21.33.22:495][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.07.05-21.33.23:211][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.33.23:351][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.33.23:936][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.33.24:047][314]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.33.24:047][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.33.24:047][314]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.33.24:047][314]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.33.24:048][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.33.24:048][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.33.24:301][315]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.07.05-21.33.24:351][315]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.24:514][316]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.05-21.33.24:569][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.07.05-21.33.24:744][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.07.05-21.33.25:061][326]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.33.25:700][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.05-21.33.25:898][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.05-21.33.27:076][351]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.05-21.33.27:152][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.05-21.33.27:474][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.07.05-21.33.28:196][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.05-21.33.28:395][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.05-21.33.29:719][385]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.29:753][385]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.33.29:753][385]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.33.29:753][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.07.05-21.33.29:857][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.07.05-21.33.31:325][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.33.32:434][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.33.32:460][426]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.33.32:460][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.07.05-21.33.33:765][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.07.05-21.33.34:993][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.33.48:092][722]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.33.48:133][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.33.48:133][722]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.33.48:133][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.33.48:133][722]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.33.49:261][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.33.50:125][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.33.50:179][755]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.05-21.33.50:195][755]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.07.05-21.33.51:368][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.07.05-21.33.52:671][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.34.14:185][227]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/LightBeam/Materials: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/LightBeam/Materials' is outside repository
+[2020.07.05-21.34.28:838][489]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/LightBeam/Materials: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/LightBeam/Materials' is outside repository
+[2020.07.05-21.34.31:368][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/Fogsheet/Materials: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/Fogsheet/Materials' is outside repository
+[2020.07.05-21.34.31:368][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/Fogsheet/T_EV_Fogsheet_FlareColors_01.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineVolumetrics/Fogsheet/T_EV_Fogsheet_FlareColors_01.uasset' is outside repository
+[2020.07.05-21.34.35:802][618]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.35:830][618]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.34.35:830][618]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.34.35:830][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.34.35:831][618]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.34.35:840][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.07.05-21.34.35:876][618]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.34.35:913][618]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.37:659][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.07.05-21.34.38:358][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.07.05-21.34.38:450][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.07.05-21.34.38:450][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.07.05-21.34.39:759][678]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.07.05-21.34.39:831][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.07.05-21.34.40:620][688]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.07.05-21.34.40:620][688]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.07.05-21.34.41:761][705]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.07.05-21.34.41:830][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.34.42:019][709]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.34.42:081][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.07.05-21.34.43:584][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.07.05-21.34.44:278][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.07.05-21.34.44:363][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.34.44:467][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.05-21.34.45:951][767]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.07.05-21.34.47:833][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.34.48:955][814]LogEditorTransaction: Undo Editar Textura
+[2020.07.05-21.34.48:971][814]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.49:019][814]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.49:054][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.34.49:054][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.34.49:054][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.34.49:054][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.34.49:070][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2020.07.05-21.34.49:118][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_2, compiling. 
+[2020.07.05-21.34.50:140][827]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.07.05-21.34.51:281][842]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.07.05-21.34.51:375][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.07.05-21.34.51:453][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.07.05-21.34.52:065][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.07.05-21.34.53:111][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.07.05-21.34.53:235][871]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.34.53:643][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.34.53:774][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: Texture samplers: 4/16
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.07.05-21.34.53:870][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.34.55:045][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.07.05-21.34.55:179][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.07.05-21.34.55:221][899]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.07.05-21.34.55:223][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.05-21.34.56:972][923]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2020.07.05-21.34.58:163][923]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.58:241][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.07.05-21.34.58:241][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.34.58:241][923]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.07.05-21.34.58:241][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.07.05-21.34.58:270][923]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.05-21.34.58:535][923]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.07.05-21.34.58:584][923]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.07.05-21.35.02:219][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.07.05-21.35.02:220][923]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.07.05-21.35.02:220][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.07.05-21.35.02:220][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.07.05-21.35.02:220][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.07.05-21.35.02:228][923]TextureStreamingBuild: Display: Compiling optional shaders took 3.684 seconds.
+[2020.07.05-21.35.02:286][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.07.05-21.35.06:834][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.07.05-21.35.06:834][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.07.05-21.35.06:834][923]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.07.05-21.35.07:107][923]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/NewMaterial661D8C8544651CAE6F8881B541B1DE1D.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/NewMaterial.uasset'
+[2020.07.05-21.35.07:151][923]AssetCheck: New page: Asset Save: NewMaterial
+[2020.07.05-21.35.07:151][923]LogContentValidation: Display: Validating Material /Game/Mapa/nivel2/NewMaterial.NewMaterial
+[2020.07.05-21.35.07:151][923]MaterialEditorStats: Base pass shader: 131 instructions
+[2020.07.05-21.35.07:152][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2020.07.05-21.35.07:152][923]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.07.05-21.35.07:152][923]MaterialEditorStats: Texture samplers: 5/16
+[2020.07.05-21.35.07:152][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.07.05-21.35.07:152][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.07.05-21.35.08:442][942]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.35.08:442][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.35.56:946][173]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.35.57:907][222]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.35.58:915][281]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.35.59:979][311]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.36.00:907][353]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.36.01:823][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.07.05-21.36.14:284][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.07.05-21.36.17:009][172]Cmd: EDIT COPY
+[2020.07.05-21.36.18:259][250]Cmd: EDIT PASTE
+[2020.07.05-21.36.42:855][187]Cmd: EDIT COPY
+[2020.07.05-21.36.43:040][196]Cmd: EDIT PASTE
+[2020.07.05-21.36.59:457][927]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (mapa2)
+[2020.07.05-21.37.00:454][950]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (mapa2)
+[2020.07.05-21.37.01:077][977]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.37.02:117][ 32]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.37.03:404][ 96]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.37.04:206][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.07.05-21.37.13:260][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.07.05-21.37.14:695][499]Cmd: EDIT COPY
+[2020.07.05-21.37.14:905][513]Cmd: EDIT PASTE
+[2020.07.05-21.37.31:786][297]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.37.32:704][335]Cmd: EDIT PASTE
+[2020.07.05-21.37.50:140][534]Cmd: EDIT COPY
+[2020.07.05-21.37.50:360][552]Cmd: EDIT PASTE
+[2020.07.05-21.37.54:048][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.07.05-21.38.01:504][342]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.38.02:036][354]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.38.02:809][408]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.38.03:861][463]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.38.04:788][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.07.05-21.38.05:783][611]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.05:783][611]LogEditorTransaction: Undo Pinchar en los actores
+[2020.07.05-21.38.06:435][635]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.06:436][635]LogEditorTransaction: Undo Pinchar en los actores
+[2020.07.05-21.38.07:874][735]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.07:874][735]LogEditorTransaction: Undo Pinchar en los actores
+[2020.07.05-21.38.08:572][789]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.08:572][789]LogEditorTransaction: Undo Move Actors
+[2020.07.05-21.38.09:162][835]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.09:162][835]LogEditorTransaction: Undo Pinchar en los actores
+[2020.07.05-21.38.09:935][899]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.09:935][899]LogEditorTransaction: Undo Pegar
+[2020.07.05-21.38.11:098][984]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.11:098][984]LogEditorTransaction: Undo Scale Actors
+[2020.07.05-21.38.11:708][ 28]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.11:708][ 28]LogEditorTransaction: Undo Move Actors
+[2020.07.05-21.38.12:848][103]Cmd: TRANSACTION UNDO
+[2020.07.05-21.38.12:848][103]LogEditorTransaction: Undo Pegar
+[2020.07.05-21.38.14:660][200]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.38.23:782][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.07.05-21.38.28:426][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.07.05-21.38.33:303][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.07.05-21.38.35:533][122]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (fondo3)
+[2020.07.05-21.38.36:208][158]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (fondo3)
+[2020.07.05-21.38.36:632][185]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.38.37:249][225]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.38.46:694][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.07.05-21.38.48:198][654]Cmd: EDIT COPY
+[2020.07.05-21.38.48:501][676]Cmd: EDIT PASTE
+[2020.07.05-21.38.58:947][373]Cmd: EDIT PASTE
+[2020.07.05-21.39.20:576][467]Cmd: EDIT COPY
+[2020.07.05-21.39.20:783][484]Cmd: EDIT PASTE
+[2020.07.05-21.39.28:204][937]Cmd: EDIT COPY
+[2020.07.05-21.39.28:463][957]Cmd: EDIT PASTE
+[2020.07.05-21.39.44:973][765]Cmd: EDIT COPY
+[2020.07.05-21.39.45:206][785]Cmd: EDIT PASTE
+[2020.07.05-21.40.03:190][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.07.05-21.40.08:076][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.07.05-21.40.09:240][953]Cmd: EDIT COPY
+[2020.07.05-21.40.09:442][967]Cmd: EDIT PASTE
+[2020.07.05-21.40.16:076][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2020.07.05-21.40.17:065][374]Cmd: EDIT COPY
+[2020.07.05-21.40.17:335][393]Cmd: EDIT PASTE
+[2020.07.05-21.40.22:886][631]Cmd: EDIT COPY
+[2020.07.05-21.40.23:124][650]Cmd: EDIT PASTE
+[2020.07.05-21.40.32:955][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.40.33:017][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.40.33:018][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.40.33:018][113]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:40:33)
+[2020.07.05-21.40.33:018][113]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.40.33:030][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011385s)
+[2020.07.05-21.40.33:031][113]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.40.33:032][113]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2020.07.05-21.40.33:032][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.013667s)
+[2020.07.05-21.40.33:074][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.07.05-21.40.33:126][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.40.33:126][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.40.33:126][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.40.33:126][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.40.33:127][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.40.33:127][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.40.33:127][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.40.33:127][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.40.33:127][113]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.40.33:127][113]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.40.33:145][113]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.40.33:146][113]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.40.33:146][113]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.40.33:146][113]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.40.33:179][113]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.40.33:204][113]LogInit: FAudioDevice initialized.
+[2020.07.05-21.40.33:223][113]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.40.33:352][113]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.40.33
+[2020.07.05-21.40.33:352][113]LogWorld: Bringing up level for play took: 0.128485
+[2020.07.05-21.40.33:353][113]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.05-21.40.33:440][113]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,395
+[2020.07.05-21.40.33:440][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.09:199][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.09:199][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.09:199][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.09:200][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.42.09:200][683]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.42.09:200][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.09:200][683]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.42.09:231][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.42.09:293][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.42.09:294][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.09:300][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.42.09:344][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.09:350][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.42.09:355][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.07.05-21.42.09:408][684]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.05-21.42.20:720][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.07.05-21.42.24:969][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.07.05-21.42.36:330][875]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.42.37:169][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.07.05-21.42.41:753][256]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.05-21.42.43:577][376]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.42.43:641][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.43:641][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.42.43:641][376]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:42:43)
+[2020.07.05-21.42.43:641][376]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.42.43:649][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007980s)
+[2020.07.05-21.42.43:651][376]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.42.43:651][376]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2020.07.05-21.42.43:651][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.010053s)
+[2020.07.05-21.42.43:698][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.42.43:708][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.42.43:708][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.42.43:709][376]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.42.43:709][376]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.42.43:730][376]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.42.43:761][376]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.42.43:779][376]LogInit: FAudioDevice initialized.
+[2020.07.05-21.42.43:788][376]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.42.43:896][376]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.42.43
+[2020.07.05-21.42.43:897][376]LogWorld: Bringing up level for play took: 0.108267
+[2020.07.05-21.42.43:897][376]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.07.05-21.42.43:960][376]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,125
+[2020.07.05-21.42.43:960][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.48:833][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.48:853][500]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.05-21.42.48:873][500]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.05-21.42.48:873][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.48:874][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.42.48:874][500]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.42.48:874][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.48:874][500]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.42.48:903][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.42.48:936][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.42.48:936][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.42.48:943][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.42.48:987][500]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.42.48:993][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.42.48:998][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.07.05-21.42.49:049][501]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.07.05-21.46.30:041][138]Cmd: TRANSACTION UNDO
+[2020.07.05-21.46.30:041][138]LogEditorTransaction: Undo Tile Painting
+[2020.07.05-21.46.35:813][293]Cmd: TRANSACTION REDO
+[2020.07.05-21.46.35:813][293]LogEditorTransaction: Redo Tile Painting
+[2020.07.05-21.50.37:809][665]Cmd: TRANSACTION UNDO
+[2020.07.05-21.50.37:810][665]LogEditorTransaction: Undo Tile Painting
+[2020.07.05-21.50.50:421][838]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa210982F1647E7D1D61234E497E139F273.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.07.05-21.50.50:634][838]AssetCheck: New page: Asset Save: mapa2
+[2020.07.05-21.50.50:634][838]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.07.05-21.50.56:277][904]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/fondoAC0A576944B72C1DDCD9658C977950EC.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/fondo.uasset'
+[2020.07.05-21.50.56:635][904]AssetCheck: New page: Asset Save: fondo
+[2020.07.05-21.50.56:635][904]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/fondo.fondo
+[2020.07.05-21.51.01:371][ 54]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.51.01:371][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.51.02:883][ 90]LogSlate: Window 'mapa2' being destroyed
+[2020.07.05-21.51.03:028][ 90]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.51.03:028][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.51.12:384][466]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.51.12:449][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.51.12:449][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.51.12:449][466]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:51:12)
+[2020.07.05-21.51.12:449][466]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.51.12:460][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010849s)
+[2020.07.05-21.51.12:462][466]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.51.12:462][466]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2020.07.05-21.51.12:462][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.013024s)
+[2020.07.05-21.51.12:561][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.07.05-21.51.12:707][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.51.12:707][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.51.12:707][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.51.12:708][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.51.12:708][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.51.12:708][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.51.12:708][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.51.12:708][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.51.12:708][466]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.51.12:708][466]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.51.12:724][466]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.51.12:751][466]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.51.12:755][466]LogInit: FAudioDevice initialized.
+[2020.07.05-21.51.12:769][466]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.51.12:857][466]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.51.12
+[2020.07.05-21.51.12:858][466]LogWorld: Bringing up level for play took: 0.087667
+[2020.07.05-21.51.12:858][466]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.07.05-21.51.12:922][466]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 1,087
+[2020.07.05-21.51.12:922][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.51.18:604][620]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.51.18:604][620]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.51.18:604][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.51.18:604][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.51.18:604][620]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.51.18:604][620]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.51.18:605][620]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.51.18:627][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.51.18:698][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.51.18:699][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.51.18:707][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.51.18:747][620]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.51.18:753][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.51.18:759][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.07.05-21.51.18:812][621]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.07.05-21.51.24:652][982]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.07.05-21.51.54:970][534]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/mapa2A4E5B8B94564CA42139E63BA35927801.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/mapa2.uasset'
+[2020.07.05-21.51.55:012][534]AssetCheck: New page: Asset Save: mapa2
+[2020.07.05-21.51.55:012][534]LogContentValidation: Display: Validating PaperTileMap /Game/Mapa/nivel2/mapa2.mapa2
+[2020.07.05-21.52.04:772][564]LogSlate: Window 'mapa2' being destroyed
+[2020.07.05-21.52.04:852][564]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.52.04:852][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.52.07:515][841]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.52.07:553][841]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.52.07:554][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.52.07:554][841]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:52:07)
+[2020.07.05-21.52.07:554][841]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.52.07:559][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005302s)
+[2020.07.05-21.52.07:560][841]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.52.07:561][841]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2020.07.05-21.52.07:561][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.006900s)
+[2020.07.05-21.52.07:596][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.52.07:612][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.52.07:612][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.52.07:613][841]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.52.07:613][841]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.52.07:625][841]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.52.07:645][841]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.52.07:648][841]LogInit: FAudioDevice initialized.
+[2020.07.05-21.52.07:660][841]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.52.07:767][841]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.52.07
+[2020.07.05-21.52.07:768][841]LogWorld: Bringing up level for play took: 0.106713
+[2020.07.05-21.52.07:768][841]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.07.05-21.52.07:829][841]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,006
+[2020.07.05-21.52.07:829][841]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.52.45:594][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.52.45:594][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.52.45:594][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.52.45:595][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.52.45:595][906]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.52.45:595][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.52.45:595][906]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.52.45:621][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.52.45:700][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.52.45:700][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.52.45:707][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.52.45:749][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.52.45:756][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.52.45:761][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.07.05-21.52.45:812][907]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.07.05-21.52.48:384][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.07.05-21.52.49:839][169]Cmd: EDIT COPY
+[2020.07.05-21.52.50:616][224]Cmd: EDIT PASTE
+[2020.07.05-21.53.29:283][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.53.30:203][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.54.40:571][778]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.54.42:601][895]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.54.42:659][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.54.42:659][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.54.42:659][895]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:54:42)
+[2020.07.05-21.54.42:659][895]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.54.42:669][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009249s)
+[2020.07.05-21.54.42:670][895]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.54.42:671][895]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2020.07.05-21.54.42:671][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.011321s)
+[2020.07.05-21.54.42:711][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.54.42:722][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.54.42:722][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.54.42:723][895]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.54.42:723][895]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.54.42:741][895]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.54.42:741][895]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.54.42:741][895]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.54.42:742][895]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.54.42:766][895]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.54.42:769][895]LogInit: FAudioDevice initialized.
+[2020.07.05-21.54.42:776][895]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.54.42:874][895]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.54.42
+[2020.07.05-21.54.42:874][895]LogWorld: Bringing up level for play took: 0.097194
+[2020.07.05-21.54.42:874][895]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.07.05-21.54.42:940][895]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 1,105
+[2020.07.05-21.54.42:940][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.54.50:799][ 93]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.54.50:799][ 93]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.54.50:799][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.54.50:800][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.54.50:800][ 93]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.54.50:800][ 93]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.54.50:800][ 93]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.54.50:825][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.54.50:907][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.54.50:908][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.54.50:914][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.54.50:959][ 93]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.54.50:966][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.54.50:972][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.07.05-21.54.51:037][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.07.05-21.54.54:578][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.54.55:643][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.54.55:756][447]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.07.05-21.55.01:664][910]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.07.05-21.55.01:771][911]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube13)
+[2020.07.05-21.55.02:027][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.55.03:001][  6]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube13)
+[2020.07.05-21.55.22:728][320]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes' is outside repository
+[2020.07.05-21.55.46:238][969]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.55.46:288][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.55.46:288][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.55.46:289][969]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:55:46)
+[2020.07.05-21.55.46:289][969]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.55.46:296][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007099s)
+[2020.07.05-21.55.46:297][969]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.55.46:298][969]LogPlayLevel: PIE: World Init took: (0.001731s)
+[2020.07.05-21.55.46:298][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.009052s)
+[2020.07.05-21.55.46:342][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.55.46:346][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.55.46:346][969]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.55.46:346][969]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.55.46:361][969]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.55.46:383][969]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.55.46:386][969]LogInit: FAudioDevice initialized.
+[2020.07.05-21.55.46:395][969]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.55.46:481][969]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.55.46
+[2020.07.05-21.55.46:482][969]LogWorld: Bringing up level for play took: 0.085991
+[2020.07.05-21.55.46:482][969]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.07.05-21.55.46:538][969]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 0,704
+[2020.07.05-21.55.46:538][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.55.54:559][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.55.54:559][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.55.54:560][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.55.54:560][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.55.54:560][167]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.55.54:560][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.55.54:561][167]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.55.54:585][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.55.54:662][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.55.54:663][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.55.54:670][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.55.54:711][167]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.55.54:717][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.55.54:722][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.07.05-21.55.54:771][168]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.07.05-21.55.55:798][270]Cmd: SELECT NONE
+[2020.07.05-21.56.03:589][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.56.31:210][893]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo)
+[2020.07.05-21.56.32:606][  0]Cmd: EDIT COPY
+[2020.07.05-21.56.32:880][ 20]Cmd: EDIT PASTE
+[2020.07.05-21.56.34:937][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.07.05-21.56.35:338][173]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2_Auto3B0A461854D58FE5EE4240893745F60D9.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/nivel2_Auto3.umap'
+[2020.07.05-21.56.35:342][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.455
+[2020.07.05-21.56.35:342][173]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.455
+[2020.07.05-21.56.41:975][538]LogEditorViewport: Clicking Background
+[2020.07.05-21.56.47:193][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.57.24:498][741]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.05-21.57.25:710][810]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo)
+[2020.07.05-21.57.26:522][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.57.28:823][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.57.28:889][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.57.28:889][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.57.28:889][ 42]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:57:28)
+[2020.07.05-21.57.28:889][ 42]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.57.28:896][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006227s)
+[2020.07.05-21.57.28:897][ 42]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.57.28:897][ 42]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2020.07.05-21.57.28:897][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.007836s)
+[2020.07.05-21.57.28:935][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.57.28:944][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.57.28:944][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.57.28:944][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.57.28:959][ 42]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.57.28:982][ 42]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.57.28:984][ 42]LogInit: FAudioDevice initialized.
+[2020.07.05-21.57.28:995][ 42]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.57.29:095][ 42]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.57.29
+[2020.07.05-21.57.29:096][ 42]LogWorld: Bringing up level for play took: 0.099600
+[2020.07.05-21.57.29:096][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.07.05-21.57.29:176][ 42]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,659
+[2020.07.05-21.57.29:177][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.57.36:817][251]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.57.36:817][251]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.57.36:817][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.57.36:818][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.57.36:818][251]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.57.36:818][251]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.57.36:818][251]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.57.36:845][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.57.36:908][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.57.36:909][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.57.36:915][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.57.36:956][251]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.57.36:962][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.57.36:967][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.07.05-21.57.37:027][252]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.07.05-21.57.37:778][322]Cmd: SELECT NONE
+[2020.07.05-21.57.38:780][429]Cmd: SELECT NONE
+[2020.07.05-21.57.41:431][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.07.05-21.58.10:867][269]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.05-21.58.10:931][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.58.10:932][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.05-21.58.10:932][269]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (05-07-2020 13:58:10)
+[2020.07.05-21.58.10:932][269]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.58.10:938][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005779s)
+[2020.07.05-21.58.10:939][269]LogAIModule: Creating AISystem for world nivel2
+[2020.07.05-21.58.10:939][269]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2020.07.05-21.58.10:939][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (0.007260s)
+[2020.07.05-21.58.10:981][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.05-21.58.10:984][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.05-21.58.10:985][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.05-21.58.10:985][269]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.05-21.58.10:985][269]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Name: Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Is Default: Yes
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: Channel Order:
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.05-21.58.11:001][269]LogAudioMixer: Display: 1: FrontRight
+[2020.07.05-21.58.11:028][269]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (2- Realtek(R) Audio)
+[2020.07.05-21.58.11:031][269]LogInit: FAudioDevice initialized.
+[2020.07.05-21.58.11:041][269]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.05-21.58.11:173][269]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 0) at 2020.07.05-17.58.11
+[2020.07.05-21.58.11:173][269]LogWorld: Bringing up level for play took: 0.130813
+[2020.07.05-21.58.11:173][269]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.07.05-21.58.11:230][269]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 -0,605
+[2020.07.05-21.58.11:230][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.58.29:687][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.58.29:687][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.58.29:687][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.58.29:688][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.58.29:688][799]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.05-21.58.29:688][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.58.29:688][799]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.05-21.58.29:716][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.58.29:777][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.05-21.58.29:778][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.05-21.58.29:784][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.05-21.58.29:825][799]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.05-21.58.29:831][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.05-21.58.29:835][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.07.05-21.58.29:869][800]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.05-21.58.32:652][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.07.05-21.58.32:946][ 29]LogSavePackage: Moving '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel28636F51D44A5FA9C0615C5A05F3FC88B.tmp' to '../../../../../../Users/sebaa/OneDrive/Escritorio/u/noveno semestre/Desarrollo Movil/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.07.05-21.58.33:178][ 29]AssetCheck: New page: Asset Save: nivel2
+[2020.07.05-21.58.33:178][ 29]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
