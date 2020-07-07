@@ -1,0 +1,1133 @@
+﻿Log file open, 07/06/20 14:35:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 11.584909
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.06-18.35.34:964][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.06-18.35.34:964][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.07.06-18.35.35:045][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.07.06-18.35.35:046][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.07.06-18.35.35:649][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.06-18.35.35:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:650][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.35:734][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.06-18.35.35:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.06-18.35.35:735][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.06-18.35.35:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.35:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.06-18.35.35:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.06-18.35.35:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.06-18.35.35:751][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.06-18.35.35:752][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.06-18.35.36:534][  0]LogHAL: Display: Platform has ~ 4 GB [4196315136 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.06-18.35.36:535][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.06-18.35.36:574][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.06-18.35.36:574][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.06-18.35.36:575][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Scalability.ini]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.06-18.35.36:576][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.06-18.35.36:737][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.06-18.35.36:738][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.06-18.35.36:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Config/Windows/Engine.ini]
+[2020.07.06-18.35.36:762][  0]LogInit: Computer: LAPTOP-LDQ66PO9
+[2020.07.06-18.35.36:762][  0]LogInit: User: pandax08
+[2020.07.06-18.35.36:762][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.07.06-18.35.36:762][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.06-18.35.36:762][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.07.06-18.35.36:762][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.06-18.35.36:762][  0]LogMemory: Process Physical Memory: 105.78 MB used, 105.79 MB peak
+[2020.07.06-18.35.36:762][  0]LogMemory: Process Virtual Memory: 99.73 MB used, 99.73 MB peak
+[2020.07.06-18.35.36:762][  0]LogMemory: Physical Memory: 3568.40 MB used,  433.52 MB free, 4001.92 MB total
+[2020.07.06-18.35.36:762][  0]LogMemory: Virtual Memory: 5117.39 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.07.06-18.35.36:794][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.06-18.35.37:459][  0]LogInit: Using OS detected language (es-ES).
+[2020.07.06-18.35.37:459][  0]LogInit: Using OS detected locale (es-CL).
+[2020.07.06-18.35.37:460][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2020.07.06-18.35.39:610][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.06-18.35.43:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.06-18.35.43:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.06-18.36.05:485][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.06-18.36.05:485][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.06-18.36.05:485][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.06-18.36.05:485][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.06-18.36.08:910][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2020.07.06-18.36.08:910][  0]LogD3D11RHI:       2010/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.06-18.36.09:021][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2020.07.06-18.36.09:021][  0]LogD3D11RHI:       128/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.06-18.36.09:269][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.06-18.36.09:269][  0]LogD3D11RHI:       0/0/2000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.06-18.36.09:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.06-18.36.09:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.06-18.36.09:340][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.06-18.36.09:340][  0]LogWindows: EnumDisplayDevices:
+[2020.07.06-18.36.09:340][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2020.07.06-18.36.09:341][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.07.06-18.36.09:342][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.07.06-18.36.09:343][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.06-18.36.09:343][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2020.07.06-18.36.09:343][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.06-18.36.09:343][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.07.06-18.36.09:343][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.07.06-18.36.09:492][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.06-18.36.09:513][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.06-18.36.09:792][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.07.06-18.36.19:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.06-18.36.19:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.06-18.36.19:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.06-18.36.19:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.06-18.36.19:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.06-18.36.19:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.06-18.36.19:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.06-18.36.19:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.06-18.36.19:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.06-18.36.19:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.06-18.36.19:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.06-18.36.20:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.06-18.36.20:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.06-18.36.20:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.06-18.36.20:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.06-18.36.20:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.06-18.36.20:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.06-18.36.20:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.06-18.36.20:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.06-18.36.20:451][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.06-18.36.20:628][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.06-18.36.21:229][  0]LogShaderCompilers: Guid format shader working directory is -74 characters bigger than the processId version (../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Intermediate/Shaders/WorkingDirectory/6816/).
+[2020.07.06-18.36.21:230][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pandax08/AppData/Local/Temp/UnrealShaderWorkingDir/D4EE6FA54334FF621EE4DCAA6C73ECC4/'.
+[2020.07.06-18.36.21:251][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.06-18.36.21:251][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.06-18.36.21:251][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.06-18.36.40:772][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: Loaded boot cache 1.71s 78MB C:/Users/pandax08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pandax08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.06-18.36.42:483][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.06-18.36.42:580][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.06-18.36.42:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.06-18.36.42:580][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.06-18.36.42:582][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pandax08/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.06-18.36.42:582][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.06-18.36.42:583][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.06-18.36.42:823][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.06-18.36.42:930][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.06-18.36.43:635][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.06-18.36.47:030][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2020.07.06-18.37.10:178][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.06-18.37.13:605][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.06-18.37.13:605][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.06-18.37.13:605][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.06-18.37.13:605][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.06-18.37.13:605][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.06-18.37.14:318][  0]LogNetVersion: MyProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2318771507)
+[2020.07.06-18.38.45:781][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 1.508515 seconds
+[2020.07.06-18.38.45:841][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.06-18.38.45:842][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.06-18.38.45:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.06-18.39.10:600][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.06-18.39.10:674][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.06-18.39.12:726][  0]SourceControl: El control de código fuente está desactivado
+[2020.07.06-18.39.28:778][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.06-18.39.28:779][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.06-18.39.35:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.06-18.39.37:089][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.06-18.39.37:089][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.06-18.39.39:662][  0]LogOcInput: OculusInput pre-init called
+[2020.07.06-18.39.40:181][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.06-18.39.40:181][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.06-18.39.56:906][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 12.30s
+[2020.07.06-18.39.57:465][  0]LogEngine: Initializing Engine...
+[2020.07.06-18.39.57:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.06-18.39.58:397][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.387 s
+[2020.07.06-18.40.00:758][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.06-18.40.08:218][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.06-18.40.10:994][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.06-18.40.11:024][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.06-18.40.11:455][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.06-18.40.11:492][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.06-18.40.12:478][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.06-18.40.12:479][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.06-18.40.12:479][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.06-18.40.14:209][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.07.06-18.40.14:698][  0]LogInit: FAudioDevice initialized.
+[2020.07.06-18.40.14:751][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.06-18.40.18:072][  0]LogDerivedDataCache: Saved boot cache 3.32s 78MB C:/Users/pandax08/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.06-18.40.18:942][  0]LogInit: Texture streaming: Enabled
+[2020.07.06-18.40.20:625][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.06-18.40.20:655][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.06-18.40.21:232][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.06-18.40.27:898][  0]LogInit: Transaction tracking system initialized
+[2020.07.06-18.40.31:012][  0]BlueprintLog: New page: Cargar el editor
+[2020.07.06-18.40.41:995][  0]LocalizationService: Localization service is disabled
+[2020.07.06-18.40.47:960][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.06-18.40.47:961][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.06-18.40.55:639][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.06-18.40.55:639][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.06-18.41.00:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/' took 2.78s
+[2020.07.06-18.42.45:012][  0]LightingResults: New page: Diseñar la iluminación
+[2020.07.06-18.42.46:102][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-18.42.46:391][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-18.42.46:462][  0]MapCheck: New page: Revisión del mapa
+[2020.07.06-18.42.46:462][  0]LightingResults: New page: Diseñar la iluminación
+[2020.07.06-18.42.50:503][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.07.06-18.43.30:100][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda Muerte_Personaje...
+[2020.07.06-18.43.30:198][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/2DSideScrollerBP/Blueprints/Muerte_Personaje.Muerte_Personaje will be modified from 40 to 40.
+[2020.07.06-18.43.31:969][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1059840 while cooking SoundWave /Game/2DSideScrollerBP/Blueprints/Muerte_Personaje.Muerte_Personaje.
+[2020.07.06-18.43.37:848][  0]LogTexture: Display: Building textures: 6 (BGRA8, 142X198)
+[2020.07.06-18.43.37:848][  0]LogTexture: Display: Building textures: 5 (BGRA8, 142X198)
+[2020.07.06-18.43.37:848][  0]LogTexture: Display: Building textures: 4 (BGRA8, 142X198)
+[2020.07.06-18.43.37:848][  0]LogTexture: Display: Building textures: 3 (BGRA8, 142X198)
+[2020.07.06-18.43.37:849][  0]LogTexture: Display: Building textures: 2 (BGRA8, 142X198)
+[2020.07.06-18.43.37:849][  0]LogTexture: Display: Building textures: 1 (BGRA8, 142X198)
+[2020.07.06-18.43.45:442][  0]LogAIModule: Creating AISystem for world Nivel_1
+[2020.07.06-18.43.52:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.06-18.43.55:197][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.07.06-18.43.55:266][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.06-18.43.55:659][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 349,161ms to complete.
+[2020.07.06-18.43.55:682][  0]LogFileHelpers: Loading map 'Nivel_1' took 70.883
+[2020.07.06-18.44.16:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-18.44.16:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-18.44.16:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-18.44.16:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-18.44.17:785][  0]LogCollectionManager: Loaded 0 collections in 0.087628 seconds
+[2020.07.06-18.44.19:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Collections/' took 0.00s
+[2020.07.06-18.44.19:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Developers/pandax08/Collections/' took 0.00s
+[2020.07.06-18.44.19:441][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Collections/' took 0.00s
+[2020.07.06-18.44.19:441][  0]LogContentBrowser: Native class hierarchy populated in 0.0238 seconds. Added 3015 classes and 717 folders.
+[2020.07.06-18.44.20:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.06-18.44.29:587][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.06-18.44.30:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.07.06-18.44.34:042][  0]LogSlate: Took 0.514256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.06-18.44.34:373][  0]LogSlate: Took 0.155015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.06-18.44.35:350][  0]LogSlate: Took 0.420506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.06-18.44.42:509][  0]LogRenderer: Reallocating scene render targets to support 960x448 Format 10 NumSamples 1 (Frame:1).
+[2020.07.06-18.44.46:272][  0]LogSlate: Took 0.100633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.06-18.44.48:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.06-18.44.48:793][  0]LogLoad: (Engine Initialization) Total time: 650.60 seconds
+[2020.07.06-18.44.48:793][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.06-18.44.50:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.06-18.44.51:223][  0]LogRenderer: Reallocating scene render targets to support 960x500 Format 10 NumSamples 1 (Frame:2).
+[2020.07.06-18.44.52:015][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/' took 2.45s
+[2020.07.06-18.45.06:136][ 70]LogAssetRegistry: Asset discovery search completed in 499.1077 seconds
+[2020.07.06-18.45.07:198][ 70]LogCollectionManager: Fixed up redirectors for 0 collections in 0.137554 seconds (updated 0 objects)
+[2020.07.06-18.59.33:972][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-19.02.23:500][ 91]LogSlate: Took 0.024848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.06-19.02.23:528][ 91]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sprite/Dialogos/DIalogo1.DIalogo1
+[2020.07.06-19.02.42:455][ 91]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.07.06-19.03.19:420][ 91]LogSlate: Took 0.090342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.06-19.04.15:158][941]LogSlate: Took 0.086959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.06-19.15.51:681][573]BlueprintLog: New page: Compilar DIalogo1
+[2020.07.06-19.15.58:067][573]LogUObjectHash: Compacting FUObjectHashTables data took 410.78ms
+[2020.07.06-19.16.35:612][578]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2020.07.06-19.16.35:614][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/Nivel_1' took 0.204
+[2020.07.06-19.16.35:735][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprite/Dialogos/DIalogo1] ([1] browsable assets)...
+[2020.07.06-19.16.35:735][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Dialogos/DIalogo1]
+[2020.07.06-19.16.38:474][578]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo1_Auto10106C6F44088205157E66A9547C5F1C5.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Sprite/Dialogos/DIalogo1_Auto1.uasset'
+[2020.07.06-19.16.38:927][578]LogFileHelpers: Auto-saving content packages took 3.311
+[2020.07.06-19.17.02:826][787]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda Song-Menú...
+[2020.07.06-19.17.02:895][787]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Movies/Fire/Song-Menú.Song-Menú will be modified from 40 to 40.
+[2020.07.06-19.17.03:823][787]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4217472 while cooking SoundWave /Game/Movies/Fire/Song-Menú.Song-Menú.
+[2020.07.06-19.17.05:359][787]LogMaterial: Display: Missing cached shader map for material FIRE_PLAYER_Video_Mat, compiling. 
+[2020.07.06-19.17.06:266][787]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.07.06-19.17.06:266][787]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.07.06-19.17.06:266][787]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.06-19.17.06:266][787]LogAIModule: Creating AISystem for world MenuPrincipal
+[2020.07.06-19.17.14:627][117]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu_Game_Over.Menu_Game_Over
+[2020.07.06-19.17.29:218][662]LogSlate: Window 'Menu_Game_Over' being destroyed
+[2020.07.06-19.17.29:271][662]LogSlate: Window 'Menu_Game_Over' being destroyed
+[2020.07.06-19.17.30:123][662]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.17.30:194][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.17.30:562][662]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.17.30:562][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.17.31:065][662]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.17.31:065][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.17.31:073][662]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.17.31:073][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.17.41:608][215]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sprite/Dialogos/DIalogo1.DIalogo1
+[2020.07.06-19.18.08:375][616]LogSlate: Window 'DIalogo1' being destroyed
+[2020.07.06-19.18.08:390][616]LogSlate: Window 'DIalogo1' being destroyed
+[2020.07.06-19.18.08:398][616]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.18.08:398][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.18.08:414][616]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-19.18.08:414][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-19.18.47:497][654]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cinematicas/Level_1/Musica.Musica
+[2020.07.06-19.18.56:144][808]LogSlate: Window 'Musica' being destroyed
+[2020.07.06-19.20.57:153][656]LogTexture: Display: Building textures: c7c2683cde12ddc5dd50bd90221194d6__1_ (BGRA8, 564X286)
+[2020.07.06-19.20.57:203][656]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Mapa/c7c2683cde12ddc5dd50bd90221194d6__1_.c7c2683cde12ddc5dd50bd90221194d6__1_
+[2020.07.06-19.21.04:397][656]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.8559 seconds. Added 1 classes and 2 folders.
+[2020.07.06-19.27.56:871][824]LogSlate: Window 'c7c2683cde12ddc5dd50bd90221194d6__1_' being destroyed
+[2020.07.06-19.28.45:781][937]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sprite/Carontee.Carontee
+[2020.07.06-19.28.51:560][244]LogSlate: Window 'Carontee' being destroyed
+[2020.07.06-19.29.20:222][736]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/carinte288F2D0CE412701DE927FD99A3B6D621A.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/carinte2.uasset'
+[2020.07.06-19.29.23:496][736]AssetCheck: New page: Asset Save: carinte2
+[2020.07.06-19.29.23:497][736]LogContentValidation: Display: Validating Texture2D /Game/Sprite/carinte2.carinte2
+[2020.07.06-19.29.51:349][223]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/caronte2902D0165437B28692CEAD98D9EFF5D43.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/caronte2.uasset'
+[2020.07.06-19.29.52:917][223]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/carinte2AF36180B41B86B55E07E3D9D53FE7E0D.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/carinte2.uasset'
+[2020.07.06-19.30.05:559][223]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.30.05:559][223]LogContentValidation: Display: Validating Texture2D /Game/Sprite/caronte2.caronte2
+[2020.07.06-19.30.05:559][223]LogContentValidation: Display: Validating ObjectRedirector /Game/Sprite/carinte2.carinte2
+[2020.07.06-19.30.34:049][404]LogUObjectHash: Compacting FUObjectHashTables data took 696.34ms
+[2020.07.06-19.30.36:680][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/Nivel_1' took 27.489
+[2020.07.06-19.30.36:940][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprite/Dialogos/DIalogo1] ([1] browsable assets)...
+[2020.07.06-19.30.36:940][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Dialogos/DIalogo1]
+[2020.07.06-19.30.37:967][404]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo1_Auto2BE60BD6A40E020149A2CC78B1FA18ABD.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Sprite/Dialogos/DIalogo1_Auto2.uasset'
+[2020.07.06-19.30.38:105][404]LogFileHelpers: Auto-saving content packages took 1.206
+[2020.07.06-19.31.56:330][391]LogUObjectHash: Compacting FUObjectHashTables data took  38.60ms
+[2020.07.06-19.31.59:737][391]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.07.06-19.32.01:030][391]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo1103E139E41E3A9966EBC2392E128F692.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/Dialogos/DIalogo1.uasset'
+[2020.07.06-19.32.01:796][391]AssetCheck: New page: Asset Save: DIalogo1
+[2020.07.06-19.32.01:796][391]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sprite/Dialogos/DIalogo1.DIalogo1
+[2020.07.06-19.32.18:314][313]LogSlate: Window 'Informe del activo' being destroyed
+[2020.07.06-19.33.27:093][313]LogSlate: Window 'Mensaje' being destroyed
+[2020.07.06-19.34.44:496][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.07.06-19.34.54:334][371]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.06-19.35.06:442][371]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sprite/caronte2.caronte2
+[2020.07.06-19.35.42:367][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.07.06-19.35.45:747][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.07.06-19.35.45:852][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.07.06-19.35.49:075][371]SourceControl: Error: error: pathspec 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/caronte2.uasset' did not match any file(s) known to git
+[2020.07.06-19.35.49:796][371]SourceControl: Error: fatal: pathspec 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/caronte2.uasset' did not match any files
+[2020.07.06-19.35.49:800][371]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.07.06-19.40.57:843][299]LogSlate: Window 'Mensaje' being destroyed
+[2020.07.06-19.41.01:270][299]LogUObjectHash: Compacting FUObjectHashTables data took 217.52ms
+[2020.07.06-19.41.04:178][299]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/caronte25DDF6A014BAF8D32D969A9A50F447A4D.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/caronte2.uasset'
+[2020.07.06-19.41.06:528][299]AssetCheck: New page: Asset Save: caronte2
+[2020.07.06-19.41.06:529][299]LogContentValidation: Display: Validating Texture2D /Game/Sprite/caronte2.caronte2
+[2020.07.06-19.41.10:947][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.07.06-19.41.10:947][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/Nivel_1' took 0.236
+[2020.07.06-19.41.10:949][465]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprite/carinte2] ([1] browsable assets)...
+[2020.07.06-19.41.10:950][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/carinte2]
+[2020.07.06-19.41.11:252][465]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/carinte2_Auto3311E615B407025C37C1E2B9FC3267AC1.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Sprite/carinte2_Auto3.uasset'
+[2020.07.06-19.41.11:254][465]LogFileHelpers: Auto-saving content packages took 0.305
+[2020.07.06-19.47.07:675][103]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/caronte24E60F0914E64C2351C70DBB96673DB6F.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/caronte2.uasset'
+[2020.07.06-19.47.10:739][103]AssetCheck: New page: Asset Save: caronte2
+[2020.07.06-19.47.10:739][103]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/historia/caronte2.caronte2
+[2020.07.06-19.48.27:055][255]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_Sprite1DB031A3C412911FB56D356AEEE22C6A4.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/Carontee_Sprite1.uasset'
+[2020.07.06-19.48.29:196][255]AssetCheck: New page: Asset Save: Carontee_Sprite1
+[2020.07.06-19.48.29:196][255]LogContentValidation: Display: Validating PaperSprite /Game/Sprite/Carontee_Sprite1.Carontee_Sprite1
+[2020.07.06-19.48.41:898][978]LogUObjectHash: Compacting FUObjectHashTables data took  54.16ms
+[2020.07.06-19.48.44:981][978]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.06-19.48.46:609][978]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2020.07.06-19.48.47:019][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.07.06-19.48.47:073][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.07.06-19.48.48:773][978]SourceControl: Error: error: pathspec 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/Carontee_Sprite1.uasset' did not match any file(s) known to git
+[2020.07.06-19.48.49:582][978]SourceControl: Error: fatal: pathspec 'C:/Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/Carontee_Sprite1.uasset' did not match any files
+[2020.07.06-19.48.49:587][978]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2020.07.06-19.52.13:302][810]LogUObjectHash: Compacting FUObjectHashTables data took 224.91ms
+[2020.07.06-19.52.18:144][810]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronte446DF6554C036049306A84A090217970.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/npc_caronte.uasset'
+[2020.07.06-19.52.19:641][810]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_Sprite8A366EA149A950BF7208F0B6E80BF9B2.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/Carontee_Sprite.uasset'
+[2020.07.06-19.52.25:274][810]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.52.25:274][810]LogContentValidation: Display: Validating Blueprint /Game/Mapa/nivel2/historia/npc_caronte.npc_caronte
+[2020.07.06-19.52.25:333][810]LogContentValidation: Display: Validating PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite.Carontee_Sprite
+[2020.07.06-19.53.35:557][585]LogUObjectHash: Compacting FUObjectHashTables data took 139.39ms
+[2020.07.06-19.53.37:087][585]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/barra_dialogoBFFF0D704C0ACDEBF8BEA6838F386BE8.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/barra_dialogo.uasset'
+[2020.07.06-19.53.40:653][585]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo17F48A89A4D58C0AEFF37FBB58A366824.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/DIalogo1.uasset'
+[2020.07.06-19.53.45:136][585]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.53.45:136][585]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/historia/barra_dialogo.barra_dialogo
+[2020.07.06-19.53.45:136][585]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mapa/nivel2/historia/DIalogo1.DIalogo1
+[2020.07.06-19.55.25:801][506]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.07.06-19.55.28:958][506]LogMetaData: Removing '/Game/Mapa/nivel2/historia/DIalogo2.SKEL_DIalogo2_C' ref from Metadata '/Game/Mapa/nivel2/historia/DIalogo1.PackageMetaData'
+[2020.07.06-19.55.28:958][506]LogMetaData: Removing '/Game/Mapa/nivel2/historia/DIalogo2.DIalogo2_C' ref from Metadata '/Game/Mapa/nivel2/historia/DIalogo1.PackageMetaData'
+[2020.07.06-19.55.32:075][506]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo2C26ED535449B230B7885639E8C41D394.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/DIalogo2.uasset'
+[2020.07.06-19.55.38:527][506]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo111037C28446121E9678CC5AE6A8D91C6.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/DIalogo1.uasset'
+[2020.07.06-19.55.41:611][506]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.55.41:611][506]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mapa/nivel2/historia/DIalogo2.DIalogo2
+[2020.07.06-19.55.41:611][506]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/DIalogo1.DIalogo1
+[2020.07.06-19.55.41:611][506]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/DIalogo1.DIalogo1_C
+[2020.07.06-19.58.16:602][200]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_Sprite275895252490BA8788F0AC88851F3AB83.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/Carontee_Sprite2.uasset'
+[2020.07.06-19.58.19:762][200]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_SpriteE0E5C8D9431A89CC48A64698FA9A91E7.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/Carontee_Sprite.uasset'
+[2020.07.06-19.58.21:460][200]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.58.21:460][200]LogContentValidation: Display: Validating PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite2.Carontee_Sprite2
+[2020.07.06-19.58.21:460][200]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/Carontee_Sprite.Carontee_Sprite
+[2020.07.06-19.58.45:001][840]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/barra_dialogo2C661DBC240E38F5132A232AFFC6A8E4C.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/barra_dialogo2.uasset'
+[2020.07.06-19.58.51:743][840]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/barra_dialogo236C34C342D408D7B58551A19EF30D51.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/barra_dialogo.uasset'
+[2020.07.06-19.58.56:703][840]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-19.58.56:703][840]LogContentValidation: Display: Validating Texture2D /Game/Mapa/nivel2/historia/barra_dialogo2.barra_dialogo2
+[2020.07.06-19.58.56:703][840]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/barra_dialogo.barra_dialogo
+[2020.07.06-19.59.00:411][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mapa/nivel2/historia/npc_caronte.npc_caronte
+[2020.07.06-21.40.15:383][965]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.40.15:885][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.40.18:973][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.40.19:597][966]LogSlate: Window 'npc_caronte' being destroyed
+[2020.07.06-21.40.20:009][966]LogSlate: Window 'npc_caronte' being destroyed
+[2020.07.06-21.40.28:525][966]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-21.40.28:525][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-21.41.32:231][980]LogTexture: Display: Building textures: hell-background-wallpaper-14682 (BGRA8, 1920X1200)
+[2020.07.06-21.41.32:231][980]LogTexture: Display: Building textures: tileBrown_22 (BGRA8, 64X64)
+[2020.07.06-21.41.32:231][980]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.07.06-21.41.34:598][980]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.06-21.41.34:598][980]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.06-21.41.34:598][980]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.06-21.41.38:012][980]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda musica_nivel_1...
+[2020.07.06-21.41.38:766][980]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Mapa/nivel2/musica_nivel_1.musica_nivel_1 will be modified from 40 to 40.
+[2020.07.06-21.41.49:001][980]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 31041684 while cooking SoundWave /Game/Mapa/nivel2/musica_nivel_1.musica_nivel_1.
+[2020.07.06-21.41.49:921][980]LogAIModule: Creating AISystem for world nivel2
+[2020.07.06-21.41.52:156][980]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.07.06-21.42.20:353][980]LogUObjectHash: Compacting FUObjectHashTables data took 10915.40ms
+[2020.07.06-21.42.32:990][980]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.07.06-21.42.50:935][980]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/carinte24388D35845F4CB34DCB34BAB6582C462.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Sprite/carinte2.uasset'
+[2020.07.06-21.42.52:463][980]LightingResults: New page: Diseñar la iluminación
+[2020.07.06-21.42.57:106][980]LoadErrors: New page: Cargando mapa: nivel2.umap
+[2020.07.06-21.42.59:360][980]LogWorld: UWorld::CleanupWorld for Nivel_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-21.42.59:658][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-21.42.59:688][980]MapCheck: New page: Revisión del mapa
+[2020.07.06-21.42.59:688][980]LightingResults: New page: Diseñar la iluminación
+[2020.07.06-21.43.04:924][980]LogUObjectHash: Compacting FUObjectHashTables data took 122.55ms
+[2020.07.06-21.43.12:973][980]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.07.06-21.43.14:157][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.07.06-21.43.18:013][980]LogEditorServer: Finished looking for orphan Actors (0.057 secs)
+[2020.07.06-21.43.19:049][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.07.06-21.43.19:561][980]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.06-21.43.19:598][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36,689ms to complete.
+[2020.07.06-21.43.19:598][980]LogFileHelpers: Loading map 'nivel2' took 28.347
+[2020.07.06-21.43.20:644][980]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-21.43.31:133][985]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.06-21.43.31:488][985]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.43.32:064][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.43.32:209][988]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2020.07.06-21.47.20:557][300]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.06-21.47.46:205][300]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo3)
+[2020.07.06-21.48.12:412][148]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.49.30:494][ 43]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.06-21.49.47:500][706]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.06-21.49.48:777][760]LogEditorViewport: Clicking Background
+[2020.07.06-21.50.16:198][253]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite2.Carontee_Sprite2
+[2020.07.06-21.50.21:836][253]LogRenderer: Reallocating scene render targets to support 1084x652 Format 10 NumSamples 1 (Frame:1).
+[2020.07.06-21.50.53:218][561]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_Sprite21EAD46374FFAD087C36F3FB0724502A2.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/Carontee_Sprite2.uasset'
+[2020.07.06-21.50.53:495][561]AssetCheck: New page: Asset Save: Carontee_Sprite2
+[2020.07.06-21.50.53:495][561]LogContentValidation: Display: Validating PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite2.Carontee_Sprite2
+[2020.07.06-21.50.58:550][815]LogSlate: Window 'Carontee_Sprite2' being destroyed
+[2020.07.06-21.50.58:564][815]LogSlate: Window 'Carontee_Sprite2' being destroyed
+[2020.07.06-21.50.58:661][815]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-21.50.58:662][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-21.51.13:019][360]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (fondo8)
+[2020.07.06-21.51.15:095][445]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Carontee_Sprite2)
+[2020.07.06-21.51.22:869][905]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Carontee_Sprite2)
+[2020.07.06-21.51.22:985][905]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.51.25:714][967]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite2.Carontee_Sprite2
+[2020.07.06-21.51.48:712][731]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Carontee_Sprite22C3267B64913DC939AFE07AA3D508B90.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/Carontee_Sprite2.uasset'
+[2020.07.06-21.51.48:746][731]AssetCheck: New page: Asset Save: Carontee_Sprite2
+[2020.07.06-21.51.48:746][731]LogContentValidation: Display: Validating PaperSprite /Game/Mapa/nivel2/historia/Carontee_Sprite2.Carontee_Sprite2
+[2020.07.06-21.51.57:451][139]LogSlate: Window 'Carontee_Sprite2' being destroyed
+[2020.07.06-21.51.57:466][139]LogSlate: Window 'Carontee_Sprite2' being destroyed
+[2020.07.06-21.51.57:541][139]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-21.51.57:541][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-21.52.01:626][311]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.52.04:572][422]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.52.07:803][610]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.06-21.52.09:551][708]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.52.18:426][ 47]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.52.19:568][110]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.07.06-21.52.25:956][464]Cmd: DELETE
+[2020.07.06-21.52.25:956][464]Cmd: ACTOR DELETE
+[2020.07.06-21.52.49:512][262]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Carontee_Sprite2)
+[2020.07.06-21.52.51:079][336]Cmd: DELETE
+[2020.07.06-21.52.51:079][336]Cmd: ACTOR DELETE
+[2020.07.06-21.52.52:568][336]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.07.06-21.52.53:217][336]LogUObjectHash: Compacting FUObjectHashTables data took  16.90ms
+[2020.07.06-21.52.53:672][336]LogEditorActor: Deleted 1 Actors (2.593 secs)
+[2020.07.06-21.52.54:140][336]LogEditorViewport: Clicking on Actor (context menu): PaperTileMapActor (fondo8)
+[2020.07.06-21.53.02:997][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.53.03:496][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.53.04:000][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.53.04:501][467]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-21.53.17:171][805]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (mapa2)
+[2020.07.06-21.53.26:001][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mapa/nivel2/historia/npc_caronte.npc_caronte
+[2020.07.06-21.55.41:073][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.07.06-21.57.36:198][226]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2_Auto4E1B67A9F4A555FB740C18C98752A10DA.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/nivel2_Auto4.umap'
+[2020.07.06-21.57.36:301][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 115.787
+[2020.07.06-21.57.36:301][226]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 115.787
+[2020.07.06-22.00.49:109][392]LogUObjectHash: Compacting FUObjectHashTables data took 238.37ms
+[2020.07.06-22.00.50:034][392]LogMetaData: Removing '/Game/Mapa/nivel2/historia/npc_caronte2.SKEL_npc_caronte2_C' ref from Metadata '/Game/Mapa/nivel2/historia/npc_caronte.PackageMetaData'
+[2020.07.06-22.00.50:034][392]LogMetaData: Removing '/Game/Mapa/nivel2/historia/npc_caronte2.npc_caronte2_C' ref from Metadata '/Game/Mapa/nivel2/historia/npc_caronte.PackageMetaData'
+[2020.07.06-22.00.51:814][392]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronte2CBA864EE41173CDEE2E31396119A8B0D.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/npc_caronte2.uasset'
+[2020.07.06-22.00.55:111][392]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronteA7F70DA4456B4C1B0B019E97A36B3A75.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/npc_caronte.uasset'
+[2020.07.06-22.00.59:099][392]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.06-22.00.59:099][392]LogContentValidation: Display: Validating Blueprint /Game/Mapa/nivel2/historia/npc_caronte2.npc_caronte2
+[2020.07.06-22.00.59:100][392]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/npc_caronte.npc_caronte
+[2020.07.06-22.00.59:100][392]LogContentValidation: Display: Validating ObjectRedirector /Game/Mapa/nivel2/historia/npc_caronte.npc_caronte_C
+[2020.07.06-22.02.21:994][141]BlueprintLog: New page: Compilar npc_caronte2
+[2020.07.06-22.02.22:811][141]LogUObjectHash: Compacting FUObjectHashTables data took  56.86ms
+[2020.07.06-22.04.16:017][617]BlueprintLog: New page: Compilar npc_caronte2
+[2020.07.06-22.04.16:594][617]LogUObjectHash: Compacting FUObjectHashTables data took  89.47ms
+[2020.07.06-22.04.31:974][339]LogSlate: Window 'npc_caronte2' being destroyed
+[2020.07.06-22.04.32:121][339]LogSlate: Window 'npc_caronte2' being destroyed
+[2020.07.06-22.04.33:603][339]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-22.04.33:603][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-22.05.04:596][659]Cmd: TRANSACTION UNDO
+[2020.07.06-22.05.04:596][659]LogEditorTransaction: Undo Scale Actors
+[2020.07.06-22.05.05:962][704]Cmd: TRANSACTION UNDO
+[2020.07.06-22.05.05:962][704]LogEditorTransaction: Undo Scale Actors
+[2020.07.06-22.05.06:649][741]Cmd: TRANSACTION UNDO
+[2020.07.06-22.05.06:649][741]LogEditorTransaction: Undo Scale Actors
+[2020.07.06-22.05.34:083][189]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mapa/nivel2/historia/DIalogo2.DIalogo2
+[2020.07.06-22.08.25:140][399]LogUObjectHash: Compacting FUObjectHashTables data took  17.86ms
+[2020.07.06-22.08.27:013][399]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2_Auto519B73B57469D49BD3FCE5495F3DF2615.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/nivel2_Auto5.umap'
+[2020.07.06-22.08.27:086][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 2.075
+[2020.07.06-22.08.27:086][399]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.075
+[2020.07.06-22.08.27:155][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/historia/DIalogo2] ([1] browsable assets)...
+[2020.07.06-22.08.27:155][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/historia/DIalogo2]
+[2020.07.06-22.08.27:867][399]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo2_Auto54F49B719469BE900AACF88B65D6486C7.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/historia/DIalogo2_Auto5.uasset'
+[2020.07.06-22.08.27:872][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/historia/npc_caronte2] ([1] browsable assets)...
+[2020.07.06-22.08.27:872][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/historia/npc_caronte2]
+[2020.07.06-22.08.28:758][399]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronte2_Auto5F5E4705E44261F3ACC1BA79E0E305CB0.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/historia/npc_caronte2_Auto5.uasset'
+[2020.07.06-22.08.28:761][399]LogFileHelpers: Auto-saving content packages took 1.675
+[2020.07.06-22.08.53:575][325]LogSlate: Took 0.357987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.06-22.15.09:028][747]BlueprintLog: New page: Compilar DIalogo2
+[2020.07.06-22.15.09:330][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:330][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:331][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:331][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:331][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:331][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:332][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:352][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion5" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion5
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:353][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:419][747]LogBlueprint: Warning: [Compiler DIalogo2] Could not find a variable named "seccion4" in 'DIalogo2_C'.
+Make sure 'DIalogo2_C' has been compiled for  Obtener seccion4
+[2020.07.06-22.15.09:527][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:528][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:529][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:530][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.09:530][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 4  no se ha encontrado
+[2020.07.06-22.15.09:530][747]LogBlueprint: Error: [Compiler DIalogo2] La propiedad asociada con  Seccion 5  no se ha encontrado
+[2020.07.06-22.15.10:413][747]LogUObjectHash: Compacting FUObjectHashTables data took 170.27ms
+[2020.07.06-22.24.57:509][658]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2020.07.06-22.24.57:572][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.273
+[2020.07.06-22.24.57:575][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/historia/DIalogo2] ([1] browsable assets)...
+[2020.07.06-22.24.57:575][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/historia/DIalogo2]
+[2020.07.06-22.24.58:068][658]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo2_Auto6709898314C6DB04F8305678F1E82A229.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/historia/DIalogo2_Auto6.uasset'
+[2020.07.06-22.24.58:073][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/historia/npc_caronte2] ([1] browsable assets)...
+[2020.07.06-22.24.58:073][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/historia/npc_caronte2]
+[2020.07.06-22.24.58:386][658]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronte2_Auto6CF82CAEA4AD14BF95505BAA09F254D15.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/historia/npc_caronte2_Auto6.uasset'
+[2020.07.06-22.24.58:389][658]LogFileHelpers: Auto-saving content packages took 0.815
+[2020.07.06-22.28.58:973][996]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/UMG/Editor: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.07.06-22.34.59:265][819]BlueprintLog: New page: Compilar DIalogo2
+[2020.07.06-22.35.00:550][819]LogUObjectHash: Compacting FUObjectHashTables data took  14.88ms
+[2020.07.06-22.35.37:668][ 87]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/DIalogo2AF39E6AB4A7B8096B6F5A8A98771D5AA.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/historia/DIalogo2.uasset'
+[2020.07.06-22.35.38:489][ 87]AssetCheck: New page: Asset Save: DIalogo2
+[2020.07.06-22.35.38:540][ 87]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mapa/nivel2/historia/DIalogo2.DIalogo2
+[2020.07.06-22.35.41:281][192]LogSlate: Window 'DIalogo2' being destroyed
+[2020.07.06-22.35.50:730][192]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-22.35.50:730][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-22.35.52:346][192]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-22.35.52:346][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-22.36.06:551][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.07.06-22.36.06:765][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Mapa/nivel2/nivel2' took 0.527
+[2020.07.06-22.36.06:929][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mapa/nivel2/historia/npc_caronte2] ([1] browsable assets)...
+[2020.07.06-22.36.06:929][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mapa/nivel2/historia/npc_caronte2]
+[2020.07.06-22.36.07:488][193]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/npc_caronte2_Auto72F6AF4D140C22F9BF9A96B8872F31305.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/Autosaves/Game/Mapa/nivel2/historia/npc_caronte2_Auto7.uasset'
+[2020.07.06-22.36.07:491][193]LogFileHelpers: Auto-saving content packages took 0.563
+[2020.07.06-22.36.11:844][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.06-22.36.24:581][251]LogSavePackage: Moving '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Saved/nivel2D101D90644D26EE1B59C99B72D8C2CBB.tmp' to '../../../../../../Users/pandax08/Desktop/1 semestre 2020/desarrollo videojuegos/UnrealEngine_Games/Unreal Proyect/MyProject/Content/Mapa/nivel2/nivel2.umap'
+[2020.07.06-22.36.26:890][251]AssetCheck: New page: Asset Save: nivel2
+[2020.07.06-22.36.26:891][251]LogContentValidation: Display: Validating World /Game/Mapa/nivel2/nivel2.nivel2
+[2020.07.06-22.36.30:447][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.06-22.36.30:768][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.06-22.36.31:424][396]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.06-22.36.31:623][396]LogPlayLevel: [PlayLevel] Compiling DIalogo1 before play...
+[2020.07.06-22.36.33:284][396]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2020.07.06-22.36.33:480][396]LogPlayLevel: PlayLevel: Blueprint regeneration took 2078 ms (1 blueprints)
+[2020.07.06-22.36.33:889][396]PIE: New page: Sesión PIE (reproducción en el editor): nivel2 (06-07-2020 14:36:33)
+[2020.07.06-22.36.36:026][396]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.06-22.36.36:377][396]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.06-22.36.36:485][396]LogPlayLevel: Creating play world package: /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.06-22.36.37:314][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.797795s)
+[2020.07.06-22.36.37:603][396]LogAIModule: Creating AISystem for world nivel2
+[2020.07.06-22.36.37:955][396]LogPlayLevel: PIE: World Init took: (0.641010s)
+[2020.07.06-22.36.37:955][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa/nivel2/nivel2.nivel2 to /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 (1.470389s)
+[2020.07.06-22.36.38:253][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.06-22.36.38:576][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.06-22.36.38:586][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.06-22.36.38:720][396]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.06-22.36.38:720][396]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Is Default: Yes
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: Channel Order:
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.06-22.36.39:442][396]LogAudioMixer: Display: 1: FrontRight
+[2020.07.06-22.36.39:978][396]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.07.06-22.36.40:877][396]LogInit: FAudioDevice initialized.
+[2020.07.06-22.37.04:859][396]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.06-22.37.06:425][396]LogWorld: Bringing World /Game/Mapa/nivel2/UEDPIE_0_nivel2.nivel2 up for play (max tick rate 60) at 2020.07.06-18.37.06
+[2020.07.06-22.37.07:213][396]LogWorld: Bringing up level for play took: 2.092044
+[2020.07.06-22.37.07:458][396]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.06-22.37.09:649][396]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.4270 seconds. Added 20 classes and 0 folders.
+[2020.07.06-22.37.15:670][396]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Mapa/nivel2/UEDPIE_0_nivel2 45,011
+[2020.07.06-22.37.15:715][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.06-22.37.36:573][398]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.06-22.38.05:387][401]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.06-22.38.07:065][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.06-22.40.02:120][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.06-22.40.02:331][281]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.06-22.40.02:391][281]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.06-22.40.02:391][281]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.06-22.40.02:613][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.06-22.40.02:679][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.06-22.40.02:679][281]LogWorld: BeginTearingDown for /Game/Mapa/nivel2/UEDPIE_0_nivel2
+[2020.07.06-22.40.02:716][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.06-22.40.02:724][281]LogWorld: UWorld::CleanupWorld for nivel2, bSessionEnded=true, bCleanupResources=true
+[2020.07.06-22.40.02:780][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-22.40.03:244][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.06-22.40.03:244][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel' has LevelScriptBlueprint '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2' with GeneratedClass '/Game/Mapa/nivel2/nivel2.nivel2_C' with ClassGeneratedBy '/Game/Mapa/nivel2/nivel2.nivel2:PersistentLevel.nivel2'
+[2020.07.06-22.40.03:251][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.06-22.40.03:365][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
